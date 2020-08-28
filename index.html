@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jambito</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/e74ec2339b.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <nav class="nav">
+            <a href="" class="logo">Jambito</a>
+            <input type="checkbox" id="menu-btn" class="menu-btn"/>
+            <label for="menu-btn" class="menu-icon" ><span class="navicon"></span></label>
+            <ul class="menu">
+                <li><a href="#"> Home</a></li>
+                <li><a href="#about">About Us</a> </li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="banner">
+            <div class="banner-img"><img src="/img/bg-lg.jpg" alt=""></div>
+            <div class="banner-bg"></div>
+            <div class="banner-text"><h4>Welcome to Jambito <br/>
+                Made just for you<br/></h4>
+            </div>
+            <button type="submit"><h4>Join Us</h4></button>
+        </div>    
+        <section class="main">
+            <!-- switch tab --> 
+            <div class="switch-btn">
+                <div class="taeb-switch left text-center">
+                    <div class="taeb btn-jamb active" taeb-direction="left"><h4>JAMB</h4></div>
+                    <div class="taeb btn-course" taeb-direction="right"><h4>Course</h4></div>
+                </div>
+            </div>
+            <div class="switch-card">
+                <form class="jamb active">
+                    <h2>Check Jamb Combination</h2>
+                    <div class="box">
+                    <label for="Select Your Subject" class="jambCombo">
+                        <h4>Subject 1:</h4>
+                        <select name="jambCombo"class="option">
+                            <option value="English">English</option>
+                        </select>
+                        <div class="gap"></div>
+                        <h4>Subject 2:</h4>
+                        <select name="jambCombo"class="option">
+                         <option value=""></option>
+                        </select>
+                     <h4>Subject 3:</h4>
+                     <select name="jambCombo"class="option">
+                         <option value=""></option>
+                     </select>
+                     <div class="gap"></div>
+                     <h4>Subject 4:</h4>
+                     <select name="jambCombo"class="option">
+                         <option value=""></option>
+                     </select>
+                    </label>
+                    </div>
+                   <br/> <button type="submit"><h4>Check</h4></button>
+                </form>
+                <form class="course">
+                 <h2>Check jamb combination for your course</h2>
+                 <label for="Select Your Subject">
+                    <p>select your course</p> 
+                     <select name="courseSelect" id="courseSelect">
+                         <option value="Course"></option>
+                     </select>
+                 </label>
+                <br/><button type="submit"><h4>Check</h4></button>
+                </form>
+            </div>
+         </section>
+         <div class="got-a-question">
+            <img src="./img/Question-Mark.svg" alt="">
+            <div class="info-text">
+                <h2>Got Questions?</h2>
+                <p>There is a community of erudite scholars ready to answer your questions.</p>
+                <button><a href="#"><h4>Ask now</h4></a></button>
+            </div>
+        </div>
+        <div class="feedback">
+            <div class="title"><h2>Feedback</h2></div>
+            <div class="feedback-flex">
+                <div class="rate">
+                    <div class="stars">
+                        <h4>RATE YOUR EXPERIENCE</h4>
+                        <form action="">
+                            <input type="radio" class="star star-5" name="star" id="star-5">
+                            <label for="star-5" class="star star-5"></label>
+                            <input type="radio" class="star star-4" name="star" id="star-4">
+                            <label for="star-4" class="star star-4"></label>
+                            <input type="radio" class="star star-3" name="star" id="star-3">
+                            <label for="star-3" class="star star-3"></label>
+                            <input type="radio" class="star star-2" name="star" id="star-2">
+                            <label for="star-2" class="star star-2"></label>
+                            <input type="radio" class="star star-1" name="star" id="star-1">
+                            <label for="star-1" class="star star-1"></label>
+                        </form>
+                    </div>
+                </div>
+                <form class="text-box">
+                    <label for="message"><h4>Leave a message</h4></label>
+                    <textarea name="feedback-text" id="" cols="30" rows="10"></textarea>
+                    <button type="submit"><h4>Submit</h4></button>
+                </form>
+            </div>
+        </div> 
+        <footer>
+            <div class="quick-links">
+                <ul>
+                    <h3>QUICK LINKS</h3>
+                    <li>News</li>
+                    <li>Article</li>
+                    <li>Resources</li>
+                </ul>
+            </div>
+            <div class="service">
+                <ul>
+                    <h3>SERVICES</h3>
+                    <li>Hire a Tutor</li>
+                    <li>Consults</li>
+                    <li>Registration</li>
+                </ul>
+            </div>
+            <div class="socials">
+                <h3>FOLLOW US</h3>
+                <a href=""><i class="fab fa-facebook-f"></i></a>
+                <a href=""><i class="fab fa-instagram"></i></a>
+                <a href=""><i class="fab fa-twitter"></i></a>
+                <a href=""><i class="fab fa-whatsapp"></i></a>
+            </div>
+        </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
