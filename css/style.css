@@ -263,9 +263,12 @@ nav ul li a {
     height: 30vh;
   }
   .banner img {
-    width: 100vw;
+    width: 100%;
     max-width: 440px;
     height: 40vh;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     -o-object-fit: cover;
        object-fit: cover;
     max-height: 500px;
@@ -284,7 +287,7 @@ nav ul li a {
     z-index: 30;
   }
   .banner .banner-bg {
-    height: 39vh;
+    height: 38vh;
     max-height: 500px;
   }
   .banner button {
@@ -296,6 +299,9 @@ nav ul li a {
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   .banner {
     height: 50vh;
+  }
+  .banner img {
+    width: 100%;
   }
   .banner .banner-text {
     width: 80vw;
@@ -538,7 +544,7 @@ nav ul li a {
   .switch-btn {
     width: 80vw;
     max-width: 400px;
-    margin-top: 6em;
+    margin-top: 7em;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1em;
