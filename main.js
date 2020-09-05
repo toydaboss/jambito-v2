@@ -1,3 +1,5 @@
+/* esversion:9 */
+
 $(function() {
     var taeb = $(".taeb-switch");
     taeb.find(".taeb").on("click", function() {
@@ -30,3 +32,34 @@ course.addEventListener("click", e =>{
         courseCard.classList.add('active');
     }
 });
+/* Start of the course dropdown */
+let dropdown = document.getElementById('courseSelect');
+dropdown.length = 0;
+let defaultOption = document.createElement('option');
+defaultOption.text = "Select your course";
+dropdown.add(defaultOption);
+dropdown.selectedIndex = 0; 
+
+const urlCourse = "https://jambito-api.herokuapp.com/";
+async function loadApi() {
+    let response = await fetch (urlCourse);
+    let result = await response.json();
+    //console.table(result.results);
+    return result;
+}
+loadApi().then(result=>{
+    let option;
+    dropOption = Object.keys(result.results);
+    //console.log(dropOption);
+    for (let i = 0; i < dropOption.length; i++) {
+        option = document.createElement('option');
+        option.text = dropOption[i];
+        option.value = dropOption[i];
+        dropdown.add(option);
+    }
+});
+
+/* End of the course dropdown */
+
+/* Start of the subject dropdown */
+/* End of the subject dropdown */
