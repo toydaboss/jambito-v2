@@ -44,7 +44,7 @@ const urlCourse = "https://jambito-api.herokuapp.com/";
 async function loadApi() {
     let response = await fetch (urlCourse);
     let result = await response.json();
-    //console.table(result.results);
+    //console.log(result.results);
     return result;
 }
 loadApi().then(result=>{
