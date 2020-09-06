@@ -63,11 +63,10 @@ function getSelectValue(){
 }
 /* End of the course dropdown */
 
-let subjectCombo=["1"];
+let subjectCombo=["1"]; // the one is to represent the default value of english
 function getSelectedSubject(id) {
     let e = document.getElementById(`option_${id}`);
     let selectedsubject = e.value;
-    alert(selectedsubject);
     subjectCombo.push(selectedsubject);
     console.log(subjectCombo);
 }
