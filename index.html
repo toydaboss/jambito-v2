@@ -42,12 +42,12 @@
                     <div class="box">
                     <label for="Select Your Subject" class="jambCombo">
                         <h4>Subject 1:</h4>
-                        <select name="jambCombo"class="option" id="option_1">
-                            <option value="English" >Use of English</option>
+                        <select name="jambCombo" class="option" id="option_1" onchange="getSelectedSubject(1)">
+                            <option value="1"> Use of English</option>
                         </select>
                         <div class="gap"></div>
                         <h4>Subject 2:</h4>
-                        <select name="jambCombo"class="option" id="option_2">
+                        <select name="jambCombo"class="option" id="option_2" onchange="getSelectedSubject(2)">
                         <option value="" >Select a Subject</option>
                         <option value="14" >Agriculture</option>
                         <option value="15" >Arabic</option>
@@ -77,7 +77,7 @@
                         <option value="26">Business Methods</option>
                         </select>
                      <h4>Subject 3:</h4>
-                     <select name="jambCombo"class="option" id="option_3">
+                     <select name="jambCombo"class="option" id="option_3" onchange="getSelectedSubject(3)">
                         <option value="" >Select a Subject</option>
                         <option value="14" >Agriculture</option>
                         <option value="15" >Arabic</option>
@@ -108,7 +108,7 @@
                      </select>
                      <div class="gap"></div>
                      <h4>Subject 4:</h4>
-                     <select name="jambCombo"class="option" id="option_4">
+                     <select name="jambCombo"class="option" id="option_4"onchange="getSelectedSubject(4)">
                         <option value="" >Select a Subject</option>
                         <option value="14" >Agriculture</option>
                         <option value="15" >Arabic</option>
@@ -149,7 +149,7 @@
                          <!-- <option value="Course" ></option> -->
                      </select>
                  </label>
-                <br/><button type="submit"><h4>Check</h4></button>
+                <br/><button type="submit" id="courseSubmit" onclick="getSelectValue()"><h4>Check</h4></button>
                 </form>
             </div>
          </section>

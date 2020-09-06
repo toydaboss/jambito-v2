@@ -1,5 +1,4 @@
 /* esversion:9 */
-
 $(function() {
     var taeb = $(".taeb-switch");
     taeb.find(".taeb").on("click", function() {
@@ -58,8 +57,17 @@ loadApi().then(result=>{
         dropdown.add(option);
     }
 });
-
+function getSelectValue(){
+    let selectValue = dropdown.value;
+   alert(selectValue);
+}
 /* End of the course dropdown */
 
-/* Start of the subject dropdown */
-/* End of the subject dropdown */
+let subjectCombo=["1"];
+function getSelectedSubject(id) {
+    let e = document.getElementById(`option_${id}`);
+    let selectedsubject = e.value;
+    alert(selectedsubject);
+    subjectCombo.push(selectedsubject);
+    console.log(subjectCombo);
+}
