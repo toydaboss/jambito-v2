@@ -43,7 +43,7 @@ const urlCourse = "https://jambito-api.herokuapp.com/";
 async function loadApi() {
     let response = await fetch (urlCourse);
     let result = await response.json();
-    //console.log(result.results);
+    //console.log(result.results["ACCOUNTING TECHNOLOGY "].subjects.compulsory);
     return result;
 }
 loadApi().then(result=>{
@@ -57,16 +57,85 @@ loadApi().then(result=>{
         dropdown.add(option);
     }
 });
+let courseSubmit = document.getElementById('courseSubmit');
+courseSubmit.addEventListener('click',(e)=>{
+    e.preventDefault();
+    getSelectValue();
+    displayResult();
+    popupOpen();
+});
+
 function getSelectValue(){
     let selectValue = dropdown.value;
-   alert(selectValue);
+    return selectValue;
+}
+function displayResult(){
+     loadApi().then(result=>{
+        getSelectValue();
+        let compulsorySubject=result.results[`${getSelectValue()}`].subjects.compulsory;
+        let optionalSubject=result.results[`${getSelectValue()}`].subjects.optional;
+        let othersSubject=result.results[`${getSelectValue()}`].subjects.others;
+        let school=result.results[`${getSelectValue()}`].schools;
+        for (let schools of school){
+            var list = document.createElement("li");
+            list.className = 'sch';
+            var node = document.createTextNode(schools);
+            list.appendChild(node);
+            var element = document.getElementById("listOfSchool");
+            element.appendChild(list);
+        }
+        for (let subject of compulsorySubject){
+            var listOfComp = document.createElement("li");
+            listOfComp.className = 'comp';
+            // to be continued...
+            var nodeOfComp = document.createTextNode(schools);
+            listOfComp.appendChild(nodeOfComp);
+            var elementOfComp = document.getElementById("compulsory");
+            elementOfComp.appendChild(listOfComp);
+        }
+        console.log(compulsorySubject);
+        console.log(optionalSubject);
+        console.log(othersSubject);
+    });
 }
 /* End of the course dropdown */
+/* Start of the subject dropdown */
+
+const subjectCheck = document.getElementById('submitSubject');
 
 let subjectCombo=["1"]; // the one is to represent the default value of english
 function getSelectedSubject(id) {
     let e = document.getElementById(`option_${id}`);
     let selectedsubject = e.value;
     subjectCombo.push(selectedsubject);
-    console.log(subjectCombo);
+    return subjectCombo;
+}
+subjectCheck.addEventListener('click',(e)=>{
+    e.preventDefault();
+    /* loadApi().then(result=>{
+        getSelectValue();
+        getSelectedSubject(id);
+        let compulsorySubject=result.results[`${getSelectValue()}`].subjects.compulsory;
+        let kourse=getSelectedSubject(id).map(key,compulsorySubject);
+        console.log(kourse);
+    }); */
+});
+
+
+/* Ask button */
+let askBtn= document.getElementById('askBtn');
+askBtn.addEventListener('click',(e)=>{
+    e.preventDefault();    
+});
+
+
+// Popup Open
+function popupOpen(){
+    document.getElementById("popup").style.display="block";
+    document.getElementById("overlay").style.display="block";
+}
+// Popup Close
+function popupClose(){
+    document.getElementById("popup").style.display="none";
+    document.getElementById("overlay").style.display="none";
 }

@@ -541,6 +541,63 @@ nav ul li a {
   width: 87%;
 }
 
+.overlay {
+  background: rgba(0, 0, 0, 0.8);
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  position: absolute;
+  width: 80vw;
+  height: 80vh;
+  top: 80%;
+  bottom: 0px;
+  left: 10%;
+  right: 10%;
+  z-index: 100;
+}
+
+/* Popup */
+.popup {
+  background: white;
+  position: absolute;
+  width: 80vw;
+  height: 80vh;
+  top: 140%;
+  bottom: 0px;
+  left: 10%;
+  right: 10%;
+  z-index: 101;
+  width: 500px;
+  /*Change your width here*/
+  height: 200px;
+  /*Change your height here*/
+  margin: auto;
+  /* Popup Inner */
+}
+
+@media (max-width: 768px) {
+  .popup {
+    width: 90%;
+    margin: auto 5%;
+  }
+}
+
+.popup .popup-inner {
+  position: relative;
+  padding: 1em;
+}
+
+.popup .popup-inner input.s3-btn-close {
+  position: absolute;
+  top: -0.5em;
+  right: -0.5em;
+  background: black;
+  border: solid 2px white;
+  color: white;
+  cursor: pointer;
+  border-radius: 15px;
+  outline: none;
+}
+
 @media only screen and (max-width: 550px) {
   .switch-btn {
     width: 80vw;
