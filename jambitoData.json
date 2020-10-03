@@ -1,108 +1,106 @@
 [
-    [
-        {
-            "Subject": "Agriculture",
-            "Code": 14
-        },
-        {
-            "Subject": "Arabic",
-            "Code": 15
-        },
-        {
-            "Subject": "Art",
-            "Code": 16
-        },
-        {
-            "Subject": "Biology",
-            "Code": 3
-        },
-        {
-            "Subject": "Chemistry",
-            "Code": 4
-        },
-        {
-            "Subject": "Christian Religious Studies",
-            "Code": 12
-        },
-        {
-            "Subject": "Commerce",
-            "Code": 5
-        },
-        {
-            "Subject": "Economics",
-            "Code": 6
-        },
-        {
-            "Subject": "French",
-            "Code": 11
-        },
-        {
-            "Subject": "Geography",
-            "Code": 10
-        },
-        {
-            "Subject": "Government",
-            "Code": 9
-        },
-        {
-            "Subject": "Hausa",
-            "Code": 13
-        },
-        {
-            "Subject": "History",
-            "Code": 17
-        },
-        {
-            "Subject": "Home Economics",
-            "Code": 18
-        },
-        {
-            "Subject": "Igbo",
-            "Code": 19
-        },
-        {
-            "Subject": "Islamic studies",
-            "Code": 20
-        },
-        {
-            "Subject": "Lit-in-English",
-            "Code": 21
-        },
-        {
-            "Subject": "Mathematics",
-            "Code": 2
-        },
-        {
-            "Subject": "Music",
-            "Code": 22
-        },
-        {
-            "Subject": "Physics",
-            "Code": 7
-        },
-        {
-            "Subject": "Accounting",
-            "Code": 8
-        },
-        {
-            "Subject": "Fine Art",
-            "Code": 24
-        },
-        {
-            "Subject": "Use of English",
-            "Code": 1
-        },
-        {
-            "Subject": "Yoruba",
-            "Code": 23
-        },
-        {
-            "Subject": "Book Keeping",
-            "Code": 25
-        },
-        {
-            "Subject": "Business Methods",
-            "Code": 26
-        }
-    ]
+    {
+        "Subject": "Agriculture",
+        "Code": 14
+    },
+    {
+        "Subject": "Arabic",
+        "Code": 15
+    },
+    {
+        "Subject": "Art",
+        "Code": 16
+    },
+    {
+        "Subject": "Biology",
+        "Code": 3
+    },
+    {
+        "Subject": "Chemistry",
+        "Code": 4
+    },
+    {
+        "Subject": "Christian Religious Studies",
+        "Code": 12
+    },
+    {
+        "Subject": "Commerce",
+        "Code": 5
+    },
+    {
+        "Subject": "Economics",
+        "Code": 6
+    },
+    {
+        "Subject": "French",
+        "Code": 11
+    },
+    {
+        "Subject": "Geography",
+        "Code": 10
+    },
+    {
+        "Subject": "Government",
+        "Code": 9
+    },
+    {
+        "Subject": "Hausa",
+        "Code": 13
+    },
+    {
+        "Subject": "History",
+        "Code": 17
+    },
+    {
+        "Subject": "Home Economics",
+        "Code": 18
+    },
+    {
+        "Subject": "Igbo",
+        "Code": 19
+    },
+    {
+        "Subject": "Islamic studies",
+        "Code": 20
+    },
+    {
+        "Subject": "Lit-in-English",
+        "Code": 21
+    },
+    {
+        "Subject": "Mathematics",
+        "Code": 2
+    },
+    {
+        "Subject": "Music",
+        "Code": 22
+    },
+    {
+        "Subject": "Physics",
+        "Code": 7
+    },
+    {
+        "Subject": "Accounting",
+        "Code": 8
+    },
+    {
+        "Subject": "Fine Art",
+        "Code": 24
+    },
+    {
+        "Subject": "Use of English",
+        "Code": 1
+    },
+    {
+        "Subject": "Yoruba",
+        "Code": 23
+    },
+    {
+        "Subject": "Book Keeping",
+        "Code": 25
+    },
+    {
+        "Subject": "Business Methods",
+        "Code": 26
+    }
 ]

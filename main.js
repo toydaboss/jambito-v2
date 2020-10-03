@@ -39,7 +39,7 @@ defaultOption.text = "Select your course";
 dropdown.add(defaultOption);
 dropdown.selectedIndex = 0; 
 
-const urlCourse = "https://jambito-api.herokuapp.com/";
+const urlCourse = "./jambitoMain.json";
 async function loadApi() {
     let response = await fetch (urlCourse);
     let result = await response.json();
@@ -84,18 +84,25 @@ function displayResult(){
             var element = document.getElementById("listOfSchool");
             element.appendChild(list);
         }
-        for (let subject of compulsorySubject){
+        for (let sub of compulsorySubject){
             var listOfComp = document.createElement("li");
-            listOfComp.className = 'comp';
-            // to be continued...
-            var nodeOfComp = document.createTextNode(schools);
+            listOfComp.className = 'compSub';
+            var nodeOfComp = document.createTextNode(sub);
             listOfComp.appendChild(nodeOfComp);
             var elementOfComp = document.getElementById("compulsory");
             elementOfComp.appendChild(listOfComp);
         }
-        console.log(compulsorySubject);
-        console.log(optionalSubject);
-        console.log(othersSubject);
+        for (let sub of othersSubject){
+            var listOfOpt = document.createElement("li");
+            listOfOpt.className = 'otherSub';
+            var nodeOfOpt = document.createTextNode(sub);
+            listOfOpt.appendChild(nodeOfOpt);
+            var elementOfOpt = document.getElementById("others");
+            elementOfOpt.appendChild(listOfOpt);
+        }
+        // to continue later
+        //console.log(optionalSubject);
+        
     });
 }
 /* End of the course dropdown */
@@ -103,15 +110,24 @@ function displayResult(){
 
 const subjectCheck = document.getElementById('submitSubject');
 
+//check the selection if one of the of the dropdown changed.
 let subjectCombo=["1"]; // the one is to represent the default value of english
 function getSelectedSubject(id) {
     let e = document.getElementById(`option_${id}`);
     let selectedsubject = e.value;
-    subjectCombo.push(selectedsubject);
+    if(subjectCombo.length <= 3 && !(subjectCombo.includes(selectedsubject))){
+        subjectCombo.push(selectedsubject);
+    }
+    //console.log(subjectCombo);
     return subjectCombo;
 }
 subjectCheck.addEventListener('click',(e)=>{
     e.preventDefault();
+    if (subjectCombo.length<4){
+        alert('Incomplete selection!');
+    }else{
+        console.log(subjectCombo);
+    }
     /* loadApi().then(result=>{
         getSelectValue();
         getSelectedSubject(id);
@@ -120,7 +136,6 @@ subjectCheck.addEventListener('click',(e)=>{
         console.log(kourse);
     }); */
 });
-
 
 /* Ask button */
 let askBtn= document.getElementById('askBtn');
