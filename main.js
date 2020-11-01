@@ -1,4 +1,6 @@
 /* esversion:9 */
+
+/* Start of switch tab */
 $(function() {
     var taeb = $(".taeb-switch");
     taeb.find(".taeb").on("click", function() {
@@ -10,7 +12,7 @@ $(function() {
         $this.addClass("active");
     });
 });
-
+/* End of switch tab */
 const jamb = document.querySelector('.btn-jamb');
 const course = document.querySelector('.btn-course');
 const jambCard = document.querySelector('.jamb');
@@ -43,13 +45,11 @@ const urlCourse = "./jambitoMain.json";
 async function loadApi() {
     let response = await fetch (urlCourse);
     let result = await response.json();
-    //console.log(result.results["ACCOUNTING TECHNOLOGY "].subjects.compulsory);
     return result;
 }
 loadApi().then(result=>{
     let option;
     dropOption = Object.keys(result.results);
-    //console.log(dropOption);
     for (let i = 0; i < dropOption.length; i++) {
         option = document.createElement('option');
         option.text = dropOption[i];
@@ -73,8 +73,8 @@ function displayResult(){
      loadApi().then(result=>{
         getSelectValue();
         let compulsorySubject=result.results[`${getSelectValue()}`].subjects.compulsory;
-        let optionalSubject=result.results[`${getSelectValue()}`].subjects.optional;
-        let othersSubject=result.results[`${getSelectValue()}`].subjects.others;
+        let optionalSubject=result.results[`${getSelectValue()}`].subjects.optional["subject 1"];
+        //let othersSubject=result.results[`${getSelectValue()}`].subjects.others;
         let school=result.results[`${getSelectValue()}`].schools;
         for (let schools of school){
             var list = document.createElement("li");
@@ -92,16 +92,16 @@ function displayResult(){
             var elementOfComp = document.getElementById("compulsory");
             elementOfComp.appendChild(listOfComp);
         }
-        for (let sub of othersSubject){
+        for (let sub of optionalSubject){
             var listOfOpt = document.createElement("li");
-            listOfOpt.className = 'otherSub';
+            listOfOpt.className = 'optionalSub';
             var nodeOfOpt = document.createTextNode(sub);
             listOfOpt.appendChild(nodeOfOpt);
-            var elementOfOpt = document.getElementById("others");
+            var elementOfOpt = document.getElementById("optional");
             elementOfOpt.appendChild(listOfOpt);
         }
         // to continue later
-        //console.log(optionalSubject);
+        //console.log(optionalSubject["subject 1"] , optionalSubject["subject 2"]);
         
     });
 }
@@ -121,20 +121,34 @@ function getSelectedSubject(id) {
     //console.log(subjectCombo);
     return subjectCombo;
 }
+ async function loadVal(){
+    let value = await fetch ('./wat.json');
+    let val = await value.json()
+    return val;
+} 
 subjectCheck.addEventListener('click',(e)=>{
     e.preventDefault();
     if (subjectCombo.length<4){
         alert('Incomplete selection!');
     }else{
-        console.log(subjectCombo);
+        // this function checks if the selected subject matches any subject in the json
+        loadVal().then(res=>{
+            for (let index = 0; index < res.result.length; index++) {
+                if(((res.result[index].Subject).toString()).indexOf(subjectCombo.toString())>-1){
+                    //console.log(res.result[index].Course);
+                    var listOfCourse = document.createElement('li');
+                    listOfCourse.className="courses";
+                    var nodeOfSub = document.createTextNode(res.result[index].Course);
+                    listOfCourse.appendChild(nodeOfSub);
+                    var elemOfSub = document.getElementById("listOfCourses");
+                    elemOfSub.appendChild(listOfCourse);
+                }else{
+                    console.log("Try another selection");
+                }
+            }
+        });
     }
-    /* loadApi().then(result=>{
-        getSelectValue();
-        getSelectedSubject(id);
-        let compulsorySubject=result.results[`${getSelectValue()}`].subjects.compulsory;
-        let kourse=getSelectedSubject(id).map(key,compulsorySubject);
-        console.log(kourse);
-    }); */
+    popupOpen1();
 });
 
 /* Ask button */
@@ -153,4 +167,18 @@ function popupOpen(){
 function popupClose(){
     document.getElementById("popup").style.display="none";
     document.getElementById("overlay").style.display="none";
+    document.getElementById("listOfSchool").innerHTML="";
+    document.getElementById("compulsory").innerHTML="";
+    document.getElementById("optional").innerHTML="";
+}
+function popupOpen1(){
+    document.getElementById("popup1").style.display="block";
+    document.getElementById("overlay1").style.display="block";
+}
+// Popup Close
+function popupClose1(){
+    document.getElementById("popup1").style.display="none";
+    document.getElementById("listOfCourses").innerHTML="";
+    document.getElementById("overlay1").style.display="none";
+
 }

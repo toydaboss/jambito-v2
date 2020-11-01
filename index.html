@@ -16,6 +16,7 @@
             <label for="menu-btn" class="menu-icon" ><span class="navicon"></span></label>
             <ul class="menu">
                 <li><a href="#"> Home</a></li>
+                <li><a href="#"> News</a></li>
                 <li><a href="#about">About Us</a> </li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
@@ -156,18 +157,23 @@
             <div class="popup" id="popup" style="display:none;">
                 <div class="popup-inner">
                   <input type="button" name="Close" class="s3-btn-close" onclick="popupClose();" value="&times;">
-                  <h3> List Of School</h3>
-                  <ol id="listOfSchool"></ol>
                   <h3>Compulsory Subjects</h3>
                     <ol id="compulsory"></ol>
                   <h3>Optional Subjects</h3>
-                    <p>Select subject to complete your four subjects</p>
+                    <!-- <p>Select subject to complete your four subjects</p> -->
                   <ol id="optional"></ol>
-                  <h3>Other Subjects</h3>
-                    <p>Select subject to complete your four subjects</p>
-                  <ol id="others"></ol>
+                  <h3> List Of School</h3>
+                  <ol id="listOfSchool"></ol>
                 </div>
-              </div>              
+            </div>
+            <div class="overlay" id="overlay1" style="display:none;"></div>
+            <div class="popup" id="popup1" style="display:none;">
+                <div class="popup-inner">
+                  <input type="button" name="Close" class="s3-btn-close" onclick="popupClose1();" value="&times;">
+                  <h3> List Of Courses</h3>
+                  <ol id="listOfCourses"></ol>
+                </div>
+            </div>              
          </section>
          <div class="got-a-question">
             <img src="./img/Question-Mark.svg" alt="">

@@ -7,7 +7,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Science Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -98,7 +102,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Science Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -119,12 +127,13 @@
         "ADULT AND COMMUNITY EDUCATION": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Government/History"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "Physics"
+                        "One Social Science Subject",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -136,12 +145,13 @@
         "ADULT AND NON-FORMAL EDUCATION": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Government/History"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "Physics"
+                        "One Social Science Subject",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -153,12 +163,13 @@
         "ADULT EDUCATION ": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Government/History"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "Physics"
+                        "One Social Science Subject",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -188,12 +199,13 @@
         "ADULT EDUCATION/POLITICAL SCIENCE AND PUBLIC ADMINISTRATION ": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Government/History"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "Physics"
+                        "One Social Science Subject",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -205,12 +217,13 @@
         "ADULT EDUCATION/ECONOMICS AND STATISTICS": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Government/History"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "Physics"
+                        "One Social Science Subject",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -222,12 +235,13 @@
         "ADULT EDUCATION/ENGLISH LITERATURE": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Government/History"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "Physics"
+                        "One Social Science Subject",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -239,12 +253,13 @@
         "ADULT EDUCATION/GEOGRAPHY AND REGIONAL PLANNING": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Government/History"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "Physics"
+                        "One Social Science Subject",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -277,15 +292,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Economics",
-                        "Government",
-                        "Geography",
-                        "French",
-                        "Christian Religious Studies",
-                        "Hausa",
-                        "History",
-                        "Lit-in-English",
-                        "Yoruba"
+                        "Two Subjects from  Arts and Social Sciences"
                     ]
                 },
                 "others": []
@@ -325,12 +332,8 @@
                 "optional": {
                     "subject 1": [
                         "Mathematics",
-                        "Biology",
+                        "Biology/Agriculture",
                         "Physics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
                     ]
                 },
                 "others": []
@@ -347,12 +350,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -375,12 +374,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -397,12 +392,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -440,12 +431,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -485,12 +472,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -541,12 +524,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -573,12 +552,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -630,12 +605,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -652,12 +623,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -773,12 +740,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -847,14 +810,6 @@
                 "Wesley University of Science and Technology"
             ]
         },
-        "AGRICULTURE AND RESOURCE ECONOMICS": {
-            "subjects": {
-                "compulsory": [],
-                "optional": {},
-                "others": []
-            },
-            "schools": []
-        },
         "AGRONOMY": {
             "subjects": {
                 "compulsory": [
@@ -863,12 +818,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -938,12 +889,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -987,7 +934,8 @@
                     "subject 1": [
                         "Mathematics",
                         "Chemistry",
-                        "Physics"
+                        "Physics",
+                        "Biology"
                     ]
                 },
                 "others": []
@@ -1004,12 +952,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1026,12 +970,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1048,12 +988,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1070,12 +1006,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1095,12 +1027,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1117,12 +1045,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1140,12 +1064,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1163,12 +1083,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1202,12 +1118,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1225,12 +1137,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1247,12 +1155,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1269,12 +1173,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1294,11 +1194,8 @@
                         "Geography",
                         "Economics",
                         "Lit-in-English",
-                        "French"
-                    ],
-                    "subject 2": [
-                        "Christian Religious Studies",
-                        "Islamic studies"
+                        "French",
+                        "Religious Studies"
                     ]
                 },
                 "others": []
@@ -1318,11 +1215,8 @@
                         "Geography",
                         "Economics",
                         "Lit-in-English",
-                        "French"
-                    ],
-                    "subject 2": [
-                        "Christian Religious Studies",
-                        "Islamic studies"
+                        "French",
+                        "Religious Studies"
                     ]
                 },
                 "others": []
@@ -1619,12 +1513,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -1769,7 +1659,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subject from Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -1784,10 +1678,19 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subject from Arts"
+                    ]
+                },
                 "others": []
             },
-            "schools": []
+            "schools": [
+                "University of Ibadan",
+                "University of Nigeria",
+                "Ahmadu Bello University",
+                "University of Jos"
+            ]
         },
         "ARCHITECTURE": {
             "subjects": {
@@ -1866,7 +1769,11 @@
                     "Physics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -1895,7 +1802,11 @@
                     "Physics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -1929,7 +1840,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -2226,7 +2141,11 @@
                     "Mathematics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subjects from Sciences or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -2364,15 +2283,12 @@
         "BIOMEDICAL ENGINEERING": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Biology",
+                    "Chemistry",
+                    "Physics"
                 ],
-                "optional": {
-                    "subject 1": [
-                        "Biology",
-                        "Chemistry",
-                        "Physics"
-                    ]
-                },
+                "optional": {},
                 "others": []
             },
             "schools": [
@@ -2387,15 +2303,12 @@
         "BIOMEDICAL TECHNOLOGY": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Biology",
+                    "Chemistry",
+                    "Physics"
                 ],
-                "optional": {
-                    "subject 1": [
-                        "Biology",
-                        "Chemistry",
-                        "Physics"
-                    ]
-                },
+                "optional": {},
                 "others": []
             },
             "schools": [
@@ -2529,15 +2442,12 @@
         "BUILDING": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Mathematics",
+                    "Chemistry",
+                    "Physics"
                 ],
-                "optional": {
-                    "subject 1": [
-                        "Mathematics",
-                        "Chemistry",
-                        "Physics"
-                    ]
-                },
+                "optional": {},
                 "others": []
             },
             "schools": [
@@ -2563,15 +2473,12 @@
         "BUILDING AND WOODWORK TECHNOLOGY EDUCATION": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Mathematics",
+                    "Chemistry",
+                    "Physics"
                 ],
-                "optional": {
-                    "subject 1": [
-                        "Mathematics",
-                        "Chemistry",
-                        "Physics"
-                    ]
-                },
+                "optional": {},
                 "others": []
             },
             "schools": [
@@ -2582,15 +2489,12 @@
         "BUILDING EDUCATION": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Mathematics",
+                    "Chemistry",
+                    "Physics"
                 ],
-                "optional": {
-                    "subject 1": [
-                        "Mathematics",
-                        "Chemistry",
-                        "Physics"
-                    ]
-                },
+                "optional": {},
                 "others": []
             },
             "schools": []
@@ -2598,15 +2502,12 @@
         "BUILDING TECHNOLOGY": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Mathematics",
+                    "Chemistry",
+                    "Physics"
                 ],
-                "optional": {
-                    "subject 1": [
-                        "Mathematics",
-                        "Chemistry",
-                        "Physics"
-                    ]
-                },
+                "optional": {},
                 "others": []
             },
             "schools": [
@@ -2617,18 +2518,15 @@
                 "Federal Unversity, Birnin-Kebbi"
             ]
         },
-        "BUILDING TECHNOLOGY EDUCATION ": {
+        "BUILDING TECHNOLOGY EDUCATION": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Mathematics",
+                    "Chemistry",
+                    "Physics"
                 ],
-                "optional": {
-                    "subject 1": [
-                        "Mathematics",
-                        "Chemistry",
-                        "Physics"
-                    ]
-                },
+                "optional": {},
                 "others": []
             },
             "schools": [
@@ -2644,7 +2542,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -2776,7 +2678,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject or Commercial Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -2853,7 +2759,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -2883,7 +2793,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -3174,7 +3088,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -3190,8 +3108,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Christian Religious Studies",
-                        "Islamic studies"
+                        "Religious Studies",
+                        "Any Other Two Subjects"
                     ]
                 },
                 "others": []
@@ -3206,7 +3124,11 @@
                     "Christian Religious Studies",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -3243,7 +3165,11 @@
                     "Christian Religious Studies",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -3328,7 +3254,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -3346,8 +3276,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "History",
-                        "Lit-in-English"
+                        "History/Lit-in-English",
+                        "Any Other Two Subjects"
                     ]
                 },
                 "others": []
@@ -3363,8 +3293,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Arabic",
-                        "Islamic studies"
+                        "Arabic/Islamic Studies",
+                        "Any Other Two Arts Subjects"
                     ]
                 },
                 "others": []
@@ -3556,18 +3486,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Lit-in-English",
-                        "Economics",
-                        "French",
-                        "Geography",
-                        "Government",
-                        "Hausa",
-                        "Yoruba",
-                        "Home Economics"
-                    ],
-                    "subject 2": [
-                        "Christian Religious Studies",
-                        "Islamic studies"
+                        "Religious Studies",
+                        "Any Two Arts or Social Science Subjects"
                     ]
                 },
                 "others": []
@@ -3706,13 +3626,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Chemistry",
-                        "Physics",
-                        "Biology"
-                    ],
-                    "subject 2": [
-                        "Economics",
-                        "Commerce"
+                        "Economics/Commerce",
+                        "Chemistry/Physics/Biology"
                     ]
                 },
                 "others": []
@@ -4109,7 +4024,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4124,7 +4043,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4138,7 +4061,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4150,7 +4077,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4191,7 +4122,11 @@
                     "Fine Art",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts and One in Social Science"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4210,9 +4145,7 @@
                 "optional": {
                     "subject 1": [
                         "Christian Religious Studies",
-                        "Islamic studies"
-                    ],
-                    "subject 2": [
+                        "Islamic studies",
                         "Government",
                         "Geography",
                         "History",
@@ -4238,9 +4171,7 @@
                 "optional": {
                     "subject 1": [
                         "Christian Religious Studies",
-                        "Islamic studies"
-                    ],
-                    "subject 2": [
+                        "Islamic studies",
                         "Government",
                         "Geography",
                         "History",
@@ -4291,12 +4222,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4319,12 +4246,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4342,12 +4265,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4364,12 +4283,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4386,12 +4301,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4409,12 +4320,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4431,12 +4338,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4453,12 +4356,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4475,12 +4374,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4498,12 +4393,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4520,12 +4411,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4543,12 +4430,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4565,12 +4448,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4587,12 +4466,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4609,12 +4484,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -4628,7 +4499,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4641,7 +4516,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4730,8 +4609,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Economics",
-                        "Geography"
+                        "Economics/Geography",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -4751,8 +4630,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Economics",
-                        "Geography"
+                        "Economics/Geography",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -4815,10 +4694,14 @@
         "DRAMA/DRAMATIC/PERFORMING ARTS": {
             "subjects": {
                 "compulsory": [
-                    "Mathematics",
+                    "Literture in English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4836,7 +4719,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4850,7 +4737,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -4936,10 +4827,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Christian Religious Studies",
-                        "Islamic studies"
-                    ],
-                    "subject 2": [
+                        "Religious Studies",
                         "Government",
                         "Geography",
                         "History",
@@ -5083,11 +4971,8 @@
                     "subject 1": [
                         "Government",
                         "History",
-                        "Lit-in-English"
-                    ],
-                    "subject 2": [
-                        "Geography",
-                        "Physics"
+                        "Lit-in-English",
+                        "Geography/Physics"
                     ]
                 },
                 "others": []
@@ -5105,10 +4990,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Christian Religious Studies",
-                        "Islamic studies"
-                    ],
-                    "subject 2": [
+                        "Religious Studies",
                         "Government",
                         "Geography",
                         "History",
@@ -5134,10 +5016,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Christian Religious Studies",
-                        "Islamic studies"
-                    ],
-                    "subject 2": [
+                        "Religious Studies",
                         "Government",
                         "Geography",
                         "History",
@@ -5160,10 +5039,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Christian Religious Studies",
-                        "Islamic studies"
-                    ],
-                    "subject 2": [
+                        "Religious Studies",
                         "Government",
                         "Geography",
                         "History",
@@ -5200,29 +5076,6 @@
                 "University of Ibadan"
             ]
         },
-        "EDUCATION / LANGUAGE /ENGLISH": {
-            "subjects": {
-                "compulsory": [
-                    "Lit-in-English",
-                    "Use of English"
-                ],
-                "optional": {},
-                "others": []
-            },
-            "schools": []
-        },
-        "EDUCATION /CONSTRUCTION TECHNOLOGY": {
-            "subjects": {
-                "compulsory": [
-                    "Mathematics",
-                    "Physics",
-                    "Use of English"
-                ],
-                "optional": {},
-                "others": []
-            },
-            "schools": []
-        },
         "EDUCATION /MECHANICAL TECHNOLOGY": {
             "subjects": {
                 "compulsory": [
@@ -5230,7 +5083,11 @@
                     "Physics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5245,7 +5102,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5260,7 +5121,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5280,7 +5145,11 @@
                     "Arabic",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Relevant Subjects from Arts or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5501,12 +5370,13 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
-                "others": [
-                    [
-                        "Christian Religious Studies"
+                "optional": {
+                    "subject 1": [
+                        "Two Arts Subjects including Religious Studies",
+                        "One Other Subject"
                     ]
-                ]
+                },
+                "others": []
             },
             "schools": [
                 "Ahmadu Bello University",
@@ -5646,7 +5516,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subject from Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5658,7 +5532,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5671,7 +5549,12 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts",
+                        "Any Other Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5685,7 +5568,12 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts",
+                        "Any Other Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5749,7 +5637,12 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts",
+                        "Any Other Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5764,7 +5657,11 @@
                     "French",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5799,7 +5696,11 @@
                     "Geography",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -5848,8 +5749,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "History",
-                        "Government"
+                        "History/Government",
+                        "Any Other Two Arts or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -5956,7 +5857,11 @@
                     "Igbo",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6018,8 +5923,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Islamic studies",
-                        "Arabic"
+                        "Islamic studies/Arabic",
+                        "Any Other Other Two Arts or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -6161,7 +6066,11 @@
                     "Physics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6174,7 +6083,11 @@
                     "Music",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6194,8 +6107,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Chemistry"
+                        "Mathematics/Chemistry",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -6275,8 +6188,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "History"
+                        "Government/History",
+                        "Any Other Two Arts or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -6318,8 +6231,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Islamic studies",
-                        "Christian Religious Studies"
+                        "Any Two Subject from Arts including Religious Studies",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -6345,12 +6258,16 @@
                 "University of Uyo"
             ]
         },
-        "EDUCATION AND SCIENCE ": {
+        "EDUCATION AND SCIENCE": {
             "subjects": {
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6435,7 +6352,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects",
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6481,7 +6403,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Subject of Specialization",
+                        "Any Other Two Arts Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6502,7 +6429,12 @@
                     "Fine Art",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts",
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6519,7 +6451,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "The Subject of Study",
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6529,24 +6466,17 @@
                 "University of Port Harcourt"
             ]
         },
-        "EDUCATION IGBO AND LINGUISTICS": {
-            "subjects": {
-                "compulsory": [
-                    "Igbo",
-                    "Use of English"
-                ],
-                "optional": {},
-                "others": []
-            },
-            "schools": []
-        },
         "EDUCATION LANGUAGE AND FRENCH ": {
             "subjects": {
                 "compulsory": [
                     "French",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6558,7 +6488,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6572,7 +6506,11 @@
                     "Physics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6591,7 +6529,12 @@
                     "Fine Art",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts",
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6632,7 +6575,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts",
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6765,7 +6713,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "The Subject of Study",
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6805,7 +6758,11 @@
                     "Mathematics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -6907,7 +6864,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7154,7 +7115,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7226,8 +7191,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "History"
+                        "Government/History",
+                        "Any Other Art Subject"
                     ]
                 },
                 "others": []
@@ -7242,7 +7207,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts and One in Social Science/Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7277,7 +7246,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts and One in Social Science/Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7370,7 +7343,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts and One in Social Science/Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7383,7 +7360,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts and One in Social Science/Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7402,7 +7383,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts and One in Social Science/Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7415,7 +7400,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts and One in Social Science/Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7431,7 +7420,11 @@
                     "Mathematics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Social Science orr Commercial Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7480,7 +7473,11 @@
                     "Mathematics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Social Science orr Commercial Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7494,7 +7491,11 @@
                     "Mathematics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Social Science orr Commercial Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7744,7 +7745,11 @@
                     "Geography",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subject from the Sciences or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7757,7 +7762,11 @@
                     "Fine Art",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Two Other Arts subjects or Social Science subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7790,7 +7799,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7835,7 +7848,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject in Arts and One in Social Science/Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7869,12 +7886,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Mathematics/Physics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -7888,7 +7901,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7901,7 +7918,11 @@
                     "Lit-in-English",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": []
@@ -7913,7 +7934,11 @@
                     "Economics",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7967,7 +7992,11 @@
                     "Fine Art",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Two Other Arts subjects or Social Science subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -7980,7 +8009,11 @@
                     "Fine Art",
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Two Other Arts subjects or Social Science subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -8026,12 +8059,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -8065,12 +8094,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -8134,12 +8159,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8156,12 +8177,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8178,12 +8195,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8200,12 +8213,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8222,12 +8231,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8244,12 +8249,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8302,12 +8303,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8353,12 +8350,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8394,12 +8387,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8418,12 +8407,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8442,12 +8427,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8464,12 +8445,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8486,12 +8463,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8508,12 +8481,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8540,12 +8509,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8574,12 +8539,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8596,12 +8557,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8614,14 +8571,15 @@
         "FRENCH": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "French"
                 ],
-                "optional": {},
-                "others": [
-                    [
-                        "French"
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Subjects from Arts and Social Science"
                     ]
-                ]
+                },
+                "others": []
             },
             "schools": [
                 "Ambrose Alli University",
@@ -8672,9 +8630,14 @@
         "FRENCH AND INTERNATIONAL RELATION": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "French"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Subjects from Arts and Social Science"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -8685,9 +8648,14 @@
         "FRENCH AND INTERNATIONAL STUDIES": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "French"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Subjects from Arts and Social Science"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -8697,9 +8665,14 @@
         "FRENCH WITH GERMAN/RUSSIAN": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "French"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Subjects from Arts and Social Science"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -8711,7 +8684,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -8761,13 +8738,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Biology",
-                        "Chemistry"
+                        "Any Two Arts or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -8793,13 +8764,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Biology",
-                        "Chemistry"
+                        "Any Two Arts or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -8816,7 +8781,11 @@
                     "Use of English",
                     "Geography"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Two Subjects from  Arts or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -8829,7 +8798,11 @@
                     "Use of English",
                     "Geography"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -8844,12 +8817,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Chemistry"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Mathematics"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -8864,7 +8833,11 @@
                     "Use of English",
                     "Geography"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subjects from Arts"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -8879,7 +8852,11 @@
                     "Use of English",
                     "Geography"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subjects from Arts or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9153,9 +9130,14 @@
         "GERMAN": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "French"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9188,7 +9170,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9202,7 +9188,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9255,7 +9245,14 @@
                     "Hausa",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Economics",
+                        "Geography",
+                        "History",
+                        "Arabic"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9287,7 +9284,11 @@
                     "Use of English",
                     "Biology"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9300,7 +9301,11 @@
                     "Use of English",
                     "Biology"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9332,7 +9337,11 @@
                     "Use of English",
                     "History"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9375,8 +9384,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "History",
-                        "Government"
+                        "History/Government",
+                        "Any Other Two Arts Subjects or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -9392,8 +9401,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "History",
-                        "Government"
+                        "History/Government",
+                        "Any Other Two Arts Subjects or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -9415,8 +9424,9 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "History",
-                        "Government"
+                        "History/Government",
+                        "Religious Studies",
+                        "Any Other Relevant Subject"
                     ]
                 },
                 "others": []
@@ -9432,8 +9442,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "History",
-                        "Government"
+                        "History/Government",
+                        "Any Other Two Arts Subjects or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -9492,8 +9502,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "History",
-                        "Government"
+                        "History/Government",
+                        "Any Other Two Arts Subjects or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -9525,8 +9535,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "History",
-                        "Government"
+                        "History/Government",
+                        "Any Other Two Arts Subjects or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -9542,8 +9552,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "History",
-                        "Government"
+                        "History/Government",
+                        "Any Other Two Arts Subjects or Social Sciences Subjects"
                     ]
                 },
                 "others": []
@@ -9560,12 +9570,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Physics",
-                        "Mathematics"
+                        "Biology/Agriculture",
+                        "Physics/Mathematics"
                     ]
                 },
                 "others": []
@@ -9582,12 +9588,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Physics",
-                        "Mathematics"
+                        "Biology/Agriculture",
+                        "Physics/Mathematics"
                     ]
                 },
                 "others": []
@@ -9604,12 +9606,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Physics",
-                        "Mathematics"
+                        "Biology/Agriculture",
+                        "Physics/Mathematics"
                     ]
                 },
                 "others": []
@@ -9633,8 +9631,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
+                        "Biology/Agriculture",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -9668,8 +9666,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
+                        "Biology/Agriculture",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -9686,12 +9684,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Physics",
-                        "Mathematics"
+                        "Biology/Agriculture",
+                        "Physics/Mathematics"
                     ]
                 },
                 "others": []
@@ -9708,12 +9702,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Physics",
-                        "Mathematics"
+                        "Biology/Agriculture",
+                        "Physics/Mathematics"
                     ]
                 },
                 "others": []
@@ -9731,12 +9721,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Physics",
-                        "Mathematics"
+                        "Biology/Agriculture",
+                        "Physics/Mathematics"
                     ]
                 },
                 "others": []
@@ -9756,12 +9742,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Physics",
-                        "Mathematics"
+                        "Biology/Agriculture",
+                        "Physics/Mathematics"
                     ]
                 },
                 "others": []
@@ -9778,14 +9760,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics",
-                        "Geography",
-                        "Economics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics/Geography/Economics"
                     ]
                 },
                 "others": []
@@ -9795,13 +9771,17 @@
                 "Federal University of Technology,Minna"
             ]
         },
-        "HOSPITALITY AND TOURISM ": {
+        "HOSPITALITY AND TOURISM": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
                     "Geography"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9815,10 +9795,14 @@
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Economics",
-                    "Mathematics"
+                    "Chemistry"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Biology or Agriculture",
+                        "Mathematics/Physics/One Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9838,12 +9822,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -9866,12 +9846,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -9928,7 +9904,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9953,7 +9933,11 @@
                     "Use of English",
                     "Biology"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -9972,12 +9956,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -9990,17 +9970,6 @@
                 "University of Ibadan",
                 "PAMO University of Medical Sciences"
             ]
-        },
-        "HUMAN PHYSICAL AND HEALTH EDUCATION": {
-            "subjects": {
-                "compulsory": [
-                    "Use of English",
-                    "Biology"
-                ],
-                "optional": {},
-                "others": []
-            },
-            "schools": []
         },
         "HUMAN PHYSIOLOGY": {
             "subjects": {
@@ -10027,10 +9996,14 @@
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Mathematics",
-                    "Economics"
+                    "Economics",
+                    "Government"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Relevant Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -10045,7 +10018,11 @@
                     "Use of English",
                     "Igbo"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Subjects from Arts and Social Science"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -10064,7 +10041,11 @@
                     "Use of English",
                     "Igbo"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Subjects from Arts and Social Science"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -10120,7 +10101,11 @@
                     "Mathematics",
                     "Physics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Science Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -10156,7 +10141,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Relevant Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -10509,7 +10498,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -10524,7 +10517,12 @@
                 "Lead City University",
                 "MountIan Top University",
                 "Pan-Atlantic University",
-                "Osun State University"
+                "Osun State University",
+                "University of Benin",
+                "Eastern Palm University",
+                "MountIan Top University",
+                "Ritman University",
+                "University of Africa"
             ]
         },
         "INDUSTRIAL TECHNICAL EDUCATION": {
@@ -10775,7 +10773,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -10787,7 +10789,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -10911,12 +10917,15 @@
         "INTERNATIONAL RELATIONSHIP AND STRATEGIC STUDIES": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Economics",
+                    "Lit-in-English"
                 ],
                 "optional": {
                     "subject 1": [
                         "Government",
-                        "History"
+                        "History",
+                        "Geography"
                     ]
                 },
                 "others": []
@@ -10933,8 +10942,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "History"
+                        "Government/History",
+                        "Any Other Two Arts Subjects or Social Sciences Subhjects"
                     ]
                 },
                 "others": []
@@ -10974,18 +10983,53 @@
                 "others": []
             },
             "schools": [
-                "Ahmadu Bello University",
+                "University of Abuja",
+                "Al-Hikmah University",
+                "Al-Qalam University, Kastina",
+                "Bauchi State University",
+                "Bayero University",
+                "Federal University, Dutsin-Ma",
+                "Federal University, Gashua",
+                "Federal University, Gusau",
+                "Federal University, Kashere",
+                "Alex Ekwueme Federal University,Ndufu-Alike",
+                "Fountain University, Oshogbo",
+                "Gombe State University of Science and Technology",
+                "University of Ibadan",
+                "University of Ilorin",
+                "University of Jos",
+                "Kaduna State University",
+                "Kogi State University",
+                "Kwara State University",
+                "Lagos State University",
+                "University of Lagos",
+                "University of Maiduguri",
+                "Nasarawa State University",
+                "National Open University of Nigeria",
+                "Olabisi Onabanjo University",
+                "Sule Lamido University",
+                "Sokoto State University",
+                "Summit University, Offa",
+                "Taraba State University",
+                "Usmanu Danfodio University",
+                "Umaru Musa Yar'Adua University",
+                "Osun State University",
+                "Yobe State University",
+                "Crescent University, Abeokuta",
                 "Yusuf Maitama Sule University"
             ]
         },
         "ISLAMIC/SHARIA LAW": {
             "subjects": {
                 "compulsory": [
-                    "Use of English",
-                    "Islamic studies",
-                    "Arabic"
+                    "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Islamic studies/Arabic",
+                        "Any Other Two Arts Subjects or Social Sciences Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11000,7 +11044,11 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11082,7 +11130,12 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Art Subject",
+                        "Any Other Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11094,7 +11147,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Art Subject",
+                        "Any Other Two Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11108,7 +11166,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11176,7 +11238,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "any three subject in arts and social science"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11233,7 +11299,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11246,7 +11316,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11259,7 +11333,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11276,7 +11354,11 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11288,7 +11370,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Art Subject",
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11301,7 +11388,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Language",
+                        "Two Other Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11339,7 +11431,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Relevant Subjects from Arts",
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11351,7 +11448,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Language",
+                        "Two Other Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11361,10 +11463,14 @@
         "LINGUISTICS AND AFRICAN LANGUAGES": {
             "subjects": {
                 "compulsory": [
-                    "Use of English",
-                    "Igbo"
+                    "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Language",
+                        "Two Other Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11375,10 +11481,14 @@
         "LINGUISTICS AND COMMUNICATION STUDIES": {
             "subjects": {
                 "compulsory": [
-                    "Use of English",
-                    "Igbo"
+                    "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Language",
+                        "Two Other Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11393,7 +11503,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Language",
+                        "Two Other Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11405,7 +11520,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11418,7 +11537,11 @@
                     "Use of English",
                     "Igbo"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11431,7 +11554,12 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Art Subject",
+                        "any other subject in arts and social science"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11457,12 +11585,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Physics/Mathematics"
                     ]
                 },
                 "others": []
@@ -11509,7 +11633,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11548,10 +11676,15 @@
         "MANAGEMENT AND ENTREPRENEURSHIP": {
             "subjects": {
                 "compulsory": [
+                    "Use of English",
                     "Economics",
                     "Mathematics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject or Commercial Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11565,7 +11698,11 @@
                     "Economics",
                     "Mathematics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11720,7 +11857,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11766,7 +11907,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11912,7 +12057,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects from Arts or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -12092,7 +12241,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences or Science Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -12252,7 +12405,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -12440,7 +12597,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -12597,7 +12758,11 @@
                     "Mathematics",
                     "Physics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -12654,7 +12819,11 @@
                     "Mathematics",
                     "Physics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -12881,7 +13050,11 @@
                     "Use of English",
                     "History"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -12911,7 +13084,11 @@
                     "Use of English",
                     "French"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -12944,7 +13121,12 @@
                     "Use of English",
                     "Music"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Art Subject",
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13008,7 +13190,12 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Art Subject",
+                        "Any Other Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13020,7 +13207,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13092,12 +13283,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Mathematics/Physics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -13114,12 +13301,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Mathematics/Physics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -13145,12 +13328,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Mathematics/Physics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -13165,7 +13344,12 @@
                     "Use of English",
                     "Mathematics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Social Science",
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13241,12 +13425,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Mathematics/Physics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -13260,7 +13440,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Arts or Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13298,7 +13482,11 @@
                     "Use of English",
                     "Government"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13310,7 +13498,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects from Arts or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13327,7 +13519,11 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13347,7 +13543,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13523,7 +13723,11 @@
                     "Use of English",
                     "Government"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13576,7 +13780,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13591,7 +13799,11 @@
                     "Use of English",
                     "Biology"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Relevant Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13619,7 +13831,11 @@
                     "Use of English",
                     "Biology"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Relevant Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -13639,7 +13855,11 @@
                     "Use of English",
                     "Biology"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Relevant Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": []
@@ -14137,12 +14357,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Mathematics/Physics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -14159,12 +14375,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Mathematics/Physics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -14243,12 +14455,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics",
-                        "Mathematics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -14426,7 +14634,12 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Government/History",
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14448,7 +14661,12 @@
                     "Government",
                     "History"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Government/History",
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14459,10 +14677,13 @@
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Government",
-                    "History"
+                    "Government/History"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14473,10 +14694,13 @@
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Government",
-                    "History"
+                    "Government/History"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14487,10 +14711,13 @@
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Government",
-                    "History"
+                    "Government/History"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14501,10 +14728,13 @@
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Government",
-                    "History"
+                    "Government/History"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14515,10 +14745,13 @@
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Government",
-                    "History"
+                    "Government/History"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14569,23 +14802,16 @@
                     "Economics",
                     "Geography"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
                 "Joseph Ayo Babalola University"
             ]
-        },
-        "PORT MANAGEMENT": {
-            "subjects": {
-                "compulsory": [
-                    "Use of English",
-                    "French"
-                ],
-                "optional": {},
-                "others": []
-            },
-            "schools": []
         },
         "PORTUGESE": {
             "subjects": {
@@ -14593,7 +14819,11 @@
                     "Use of English",
                     "French"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14603,9 +14833,14 @@
         "PORTUGESE/ENGLISH": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "French"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14617,7 +14852,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14632,7 +14871,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14644,7 +14887,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14692,7 +14939,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14705,7 +14956,11 @@
                     "Use of English",
                     "Government"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14757,9 +15012,14 @@
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Government"
+                    "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Mathematics or Government",
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14835,9 +15095,15 @@
         "PUBLIC ADMINISTRATION AND LOCAL GOVERNMENT": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Mathematics",
+                    "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14851,7 +15117,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14865,7 +15135,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -14934,7 +15208,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Social Sciences or Arts Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -15180,12 +15458,12 @@
         "RELIGIOUS AND CULTURAL STUDIES": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Islamic studies/Christian Religious Studies"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Islamic studies",
-                        "Christian Religious Studies"
+                        "Any Other Two Subjects"
                     ]
                 },
                 "others": []
@@ -15199,12 +15477,12 @@
         "RELIGIOUS AND HUMAN RELATIONS": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Islamic studies/Christian Religious Studies"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Islamic studies",
-                        "Christian Religious Studies"
+                        "Any Other Two Subjects"
                     ]
                 },
                 "others": []
@@ -15216,12 +15494,12 @@
         "RELIGIOUS STUDIES": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Islamic studies/Christian Religious Studies"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Islamic studies",
-                        "Christian Religious Studies"
+                        "Any Other Two Subjects"
                     ]
                 },
                 "others": []
@@ -15265,7 +15543,11 @@
                     "Use of English",
                     "French"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -15280,7 +15562,11 @@
                     "Use of English",
                     "French"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -15292,7 +15578,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -15341,7 +15631,11 @@
                     "Use of English",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -15355,7 +15649,11 @@
                     "Use of English",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -15369,7 +15667,11 @@
                     "Use of English",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Social Science Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -15422,8 +15724,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Economics",
-                        "Geography"
+                        "Economics/Geography",
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -15443,12 +15745,12 @@
         "SOCIOLOGY": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Government/History"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "History"
+                        "Any Other Two Arts Subjects or Social Sciences"
                     ]
                 },
                 "others": []
@@ -15541,12 +15843,12 @@
         "SOCIOLOGY AND ANTHROPOLOGY": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Government/History"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Government",
-                        "History"
+                        "Any Other Two Arts Subjects or Social Sciences"
                     ]
                 },
                 "others": []
@@ -15606,12 +15908,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -15630,12 +15928,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -15667,12 +15961,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics"
                     ]
                 },
                 "others": []
@@ -15689,12 +15979,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -15711,12 +15997,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -15733,12 +16015,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []
@@ -15752,7 +16030,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16030,7 +16312,12 @@
                     "Use of English",
                     "Mathematics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "One Social Science Subject",
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16142,7 +16429,11 @@
                     "Mathematics",
                     "Physics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Science Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16237,7 +16528,9 @@
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Lit-in-English"
+                    "Mathematics",
+                    "Physics",
+                    "Chemistry"
                 ],
                 "optional": {},
                 "others": []
@@ -16252,7 +16545,11 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16267,7 +16564,11 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16281,7 +16582,11 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16295,7 +16600,11 @@
                     "Use of English",
                     "Lit-in-English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16331,7 +16640,11 @@
                     "Use of English",
                     "Christian Religious Studies"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16345,7 +16658,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16377,7 +16694,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16391,7 +16712,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16405,7 +16730,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16419,7 +16748,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16433,7 +16766,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16448,7 +16785,11 @@
                     "Mathematics",
                     "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16564,7 +16905,11 @@
                     "Use of English",
                     "Fine Art"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16597,8 +16942,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
+                        "Mathematics/Physics",
+                        "Subject of Specialization"
                     ]
                 },
                 "others": []
@@ -16647,8 +16992,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
+                        "Mathematics or Physics",
+                        "Subject of Specialization"
                     ]
                 },
                 "others": []
@@ -16682,12 +17027,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
-                    ],
-                    "subject 2": [
-                        "Biology",
-                        "Agriculture"
+                        "Mathematics/Physics",
+                        "Biology/Agriculture"
                     ]
                 },
                 "others": []
@@ -16720,12 +17061,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Agriculture"
-                    ],
-                    "subject 2": [
-                        "Mathematics",
-                        "Physics"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics"
                     ]
                 },
                 "others": []

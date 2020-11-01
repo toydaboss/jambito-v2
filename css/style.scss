@@ -458,12 +458,12 @@ nav{
     opacity:0.8;
     filter:alpha(opacity=80);
     position:absolute;
-    width: 80vw;
-    height: 80vh;
+    width: 100vw;
+    height: 100vh;
     top:80%;
     bottom:0px;
-    left:10%;
-    right:10%;
+    //left:10%;
+    //right:10%;
     z-index:100;
   }
   
@@ -471,17 +471,21 @@ nav{
   .popup{
     background:white;
     position:absolute;
-    width: 80vw;
-    height: 80vh;
     top:140%;
     bottom:0px;
     left:10%;
     right:10%;
     z-index:101;
-    width:500px; /*Change your width here*/
-    height:200px; /*Change your height here*/
+    width:80vw; /*Change your width here*/
+    height:60vh; /*Change your height here*/
     margin:auto;
-    
+    text-align: center;
+    li{
+        list-style: none;
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 1em;
+    }
     @media(max-width:768px){
       width:90%;
       margin:auto 5%;
