@@ -143,7 +143,6 @@ subjectCheck.addEventListener('click',(e)=>{
                     var elemOfSub = document.getElementById("listOfCourses");
                     elemOfSub.appendChild(listOfCourse);
                 }else{
-                    //console.log((res.result[index].Subject).sort((a, b) => a - b),subjectCombo.sort((a, b) => a - b));
                     console.log("Try another selection");
                 }
             }
@@ -151,8 +150,6 @@ subjectCheck.addEventListener('click',(e)=>{
     }
     popupOpen1();
 });
-//(((res.result[index].Subject).sort((a, b) => a - b).toString()).indexOf(subjectCombo.sort((a, b)=> a - b).toString())>-1)
-/* Ask button */
 let askBtn= document.getElementById('askBtn');
 askBtn.addEventListener('click',(e)=>{
     e.preventDefault();    
