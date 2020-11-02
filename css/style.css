@@ -546,9 +546,9 @@ nav ul li a {
   opacity: 0.8;
   filter: alpha(opacity=80);
   position: absolute;
-  width: 100vw;
-  height: 100vh;
-  top: 80%;
+  width: 100%;
+  height: 100%;
+  top: 50%;
   bottom: 0px;
   z-index: 100;
 }
@@ -557,14 +557,14 @@ nav ul li a {
 .popup {
   background: white;
   position: absolute;
-  top: 140%;
+  top: 100%;
   bottom: 0px;
   left: 10%;
   right: 10%;
   z-index: 101;
   width: 80vw;
   /*Change your width here*/
-  height: 60vh;
+  height: 75vh;
   /*Change your height here*/
   margin: auto;
   text-align: center;
@@ -576,13 +576,6 @@ nav ul li a {
   display: inline-block;
   vertical-align: top;
   margin-left: 1em;
-}
-
-@media (max-width: 768px) {
-  .popup {
-    width: 90%;
-    margin: auto 5%;
-  }
 }
 
 .popup .popup-inner {
@@ -598,8 +591,23 @@ nav ul li a {
   border: solid 2px white;
   color: white;
   cursor: pointer;
+  width: 50px;
+  height: 40px;
+  font-size: 2em;
   border-radius: 15px;
   outline: none;
+}
+
+@media screen and (max-width: 550px) {
+  .overlay {
+    height: 1500px;
+  }
+  .popup {
+    width: 80%;
+    height: 1300px;
+    font-size: 0.8em;
+    top: 1500px;
+  }
 }
 
 @media only screen and (max-width: 550px) {

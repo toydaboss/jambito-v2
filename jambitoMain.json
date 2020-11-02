@@ -11945,7 +11945,11 @@
                 "compulsory": [
                     "Use of English"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects from Arts or Social Sciences"
+                    ]
+                },
                 "others": []
             },
             "schools": [

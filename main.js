@@ -118,7 +118,7 @@ function getSelectedSubject(id) {
     if(subjectCombo.length <= 3 && !(subjectCombo.includes(selectedsubject))){
         subjectCombo.push(selectedsubject);
     }
-    //console.log(subjectCombo);
+    console.log(subjectCombo);
     return subjectCombo;
 }
  async function loadVal(){
@@ -134,7 +134,7 @@ subjectCheck.addEventListener('click',(e)=>{
         // this function checks if the selected subject matches any subject in the json
         loadVal().then(res=>{
             for (let index = 0; index < res.result.length; index++) {
-                if(((res.result[index].Subject).toString()).indexOf(subjectCombo.toString())>-1){
+                if(((res.result[index].Subject).sort().toString()).indexOf(subjectCombo.sort().toString())>-1){
                     //console.log(res.result[index].Course);
                     var listOfCourse = document.createElement('li');
                     listOfCourse.className="courses";
@@ -180,5 +180,8 @@ function popupClose1(){
     document.getElementById("popup1").style.display="none";
     document.getElementById("listOfCourses").innerHTML="";
     document.getElementById("overlay1").style.display="none";
-
+    subjectCombo=["1"];
+    document.getElementById("option_2").value ="";
+    document.getElementById("option_3").value ="";
+    document.getElementById("option_4").value ="";
 }
