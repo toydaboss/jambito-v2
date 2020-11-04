@@ -171,7 +171,8 @@
             <div class="info-text">
                 <h2>Got Questions?</h2>
                 <p>There is a community of erudite scholars ready to answer your questions.</p>
-                <button><a href="mailto:info@jambito.com" id="askBtn"><h4>Ask now</h4></a></button>
+                <a href="mailto:info@jambito.com&subject=Questions" id="askBtn"><button type="button" style="
+                    color: white;">Ask now</button></a>
             </div>
         </div>
         <div class="feedback">
@@ -194,11 +195,12 @@
                         </form>
                     </div>
                 </div>
-                <form class="text-box">
+                <form class="text-box" action="mailto:info@jambito.com&subject=Feedback" method="GET">
                     <label for="message"><h4>Leave a message</h4></label>
                     <textarea name="feedback-text" id="" cols="30" rows="10"></textarea>
-                    <button type="submit"><a href="mailto:info@jambito.com" id="submitBtn"><h4>Submit</h4></a></button>
+                    <a href="mailto:info@jambito.com&subject=Feedback" id="submitBtn"><button type="button">Submit</button></a>
                 </form>
+                
             </div>
         </div> 
         <footer>
