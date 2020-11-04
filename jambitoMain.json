@@ -1,6 +1,6 @@
 {
     "results": {
-        "ACCOUNTING/ACCOUNTANCY ": {
+        "ACCOUNTING/ACCOUNTANCY": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -37,9 +37,15 @@
                 "Federal University, Wukari",
                 "Igbinedion University, Okada",
                 "Imo State University",
+                "University of Jos",
+                "Kwararafa University,Wukari",
+                "Lead City University",
+                "University of Lagos",
+                "Lagos State University",
                 "Lead City University",
                 "Madonna University, Okija",
                 "MacPherson University",
+                "University of Maiduguri",
                 "University of Mkar",
                 "Nasarawa State University",
                 "Nile University of Nigeria",
@@ -54,22 +60,97 @@
                 "Nnamdi Azkiwe University",
                 "University of Uyo",
                 "Wellspring University",
-                "Western Delta University",
+                "Ambrose Alli University",
+                "Afe Babalola University",
+                "Achievers University,Owo",
+                "Adamawa State University",
+                "Admiralty University of Nigeria",
+                "Ajayi Crowther University",
+                "Akwa Ibom State University",
+                "Al-Hikmah University",
+                "Al-Qalam University, Kastina",
+                "Anchor University,Lagos",
+                "Arthur Jarvis University",
+                "Atiba University",
+                "Adeleke University",
+                "Augustine University",
+                "Babcock University",
+                "Bayero University",
+                "Baze University",
+                "Bells University of Technology",
+                "University of Benin",
+                "Bingham University",
+                "Benson Idahosa University",
+                "Bowen University",
+                "University of Calabar",
+                "Caleb University",
+                "Chrisland University",
+                "Christopher University",
+                "Clifford University",
+                "Crown Hill University",
+                "Cross River University of Technology",
+                "Crescent University, Abeokuta",
+                "Delta State University",
+                "Dominican University, Ibadan",
+                "Edwin Clark University",
+                "Edwin Clark University",
+                "Ekiti State University, Ado Ekiti",
+                "Eastern Palm University",
+                "Edo University",
+                "Federal University,Dutse",
+                "Federal University, Gashua",
+                "Federal University, Gusau",
+                "Federal Unversity, Birnin-Kebbi",
+                "Alex Ekwueme Federal University,Ndufu-Alike",
+                "Federal University, Otuoke",
+                "Federal University,Oye-Ekiti",
+                "Fountain University, Oshogbo",
+                "Godfrey Okoye University",
+                "Gregory University, Uturu ",
+                "Gombe State University of Science and Technology",
+                "Hallmark University,Ijebu-Itele",
+                "University of Ilorin",
+                "Joseph Ayo Babalola University",
+                "University of Jos",
+                "Kaduna State University",
+                "Kola Daisi University",
+                "Kogi State University",
+                "Kwara State University",
+                "Landmark University",
+                "Ibrahim Badamasi Babangida University",
+                "Legacy University, Okija",
+                "Yusuf Maitama Sule University",
+                "Michael and Cecilia Ibru University",
+                "MountIan Top University",
+                "Nigeria Army University",
+                "Nigeria Defence Academy",
+                "Niger Delta University",
+                "Nile University of Nigeria",
+                "Novena University",
+                "Obong University",
+                "Oduduwa University",
+                "Olabisi Onabanjo University",
+                "Pan-Atlantic University",
+                "Paul University",
+                "Precious Cornerstone University",
+                "Nigeria Police Academy",
+                "Redeemer's University",
+                "Renaissance University",
+                "Rhema University",
+                "Salem University",
                 "Samuel Adegboyega University",
                 "Skyline University Nigeria",
                 "Southwestern University, Nigeria",
-                "Rhema University",
+                "Spiritan University, Nneochi",
                 "Summit University, Offa",
                 "Tansian University",
                 "Taraba State University",
-                "Usmanu Danfodio University",
-                "Chukwuemeka Odumegwu Ojukwu University",
+                "Umaru Musa Yar'Adua University",
                 "University of Africa",
-                "University of Uyo",
-                "Kings University",
                 "Hezekiah University",
+                "Kings University",
                 "Veritas University",
-                "Wellspring University",
+                "Wesley University of Science and Technology",
                 "Western Delta University",
                 "Yobe State University"
             ]
@@ -1851,7 +1932,7 @@
                 "University of Nigeria"
             ]
         },
-        "BANKING AND FINANCE": {
+        "BANKING AND FINANCE [Administration]": {
             "subjects": {
                 "compulsory": [
                     "Mathematics",
@@ -1900,7 +1981,24 @@
                 "Nnamdi Azkiwe University",
                 "University of Nigeria",
                 "University of Uyo",
-                "Wellspring University",
+                "Wellspring University"
+            ]
+        },
+        "BANKING AND FINANCE [Social Science]": {
+            "subjects": {
+                "compulsory": [
+                    "Mathematics",
+                    "Economics",
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Arts Subjects or Social Sciences"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Ambrose Alli University",
                 "Afe Babalola University",
                 "University of Abuja",
@@ -1967,7 +2065,7 @@
                 "Wesley University of Science and Technology"
             ]
         },
-        "BIOCHEMISTRY ": {
+        "BIOCHEMISTRY [Sciences] ": {
             "subjects": {
                 "compulsory": [
                     "Biology",
@@ -2104,7 +2202,21 @@
                 "University of Nigeria",
                 "Precious Cornerstone University",
                 "Western Delta University",
-                "Wesley University of Science and Technology",
+                "Wesley University of Science and Technology"
+            ]
+        },
+        "BIOCHEMISTRY [Health Sciences] ": {
+            "subjects": {
+                "compulsory": [
+                    "Biology",
+                    "Chemistry",
+                    "Use of English",
+                    "Physics"
+                ],
+                "optional": {},
+                "others": []
+            },
+            "schools": [
                 "University of Calabar",
                 "Eko University of Medical and Health Sciences",
                 "University of Ibadan",
@@ -2116,7 +2228,7 @@
                 "University of Uyo"
             ]
         },
-        "BIOCHEMISTRY  AND MOLECULAR BIOLOGY": {
+        "BIOCHEMISTRY AND MOLECULAR BIOLOGY": {
             "subjects": {
                 "compulsory": [
                     "Biology",
@@ -2316,7 +2428,7 @@
                 "Federal University of Technology, Owerri"
             ]
         },
-        "BIOTECHNOLOGY ": {
+        "BIOTECHNOLOGY [Science]": {
             "subjects": {
                 "compulsory": [
                     "Biology",
@@ -2325,9 +2437,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Agriculture",
-                        "Mathematics",
-                        "Physics"
+                        "Any Other Science Subject"
                     ]
                 },
                 "others": []
@@ -2354,6 +2464,21 @@
                 "Salem University",
                 "Kings University",
                 "Western Delta University"
+            ]
+        },
+        "BIOTECHNOLOGY [Engineering]": {
+            "subjects": {
+                "compulsory": [
+                    "Biology/Physics",
+                    "Chemistry",
+                    "Use of English",
+                    "Mathematics"
+                ],
+                "optional": {},
+                "others": []
+            },
+            "schools": [
+                "Bells University of Technology"
             ]
         },
         "BOTANY": {
@@ -2486,19 +2611,6 @@
                 "Nnamdi Azkiwe University"
             ]
         },
-        "BUILDING EDUCATION": {
-            "subjects": {
-                "compulsory": [
-                    "Use of English",
-                    "Mathematics",
-                    "Chemistry",
-                    "Physics"
-                ],
-                "optional": {},
-                "others": []
-            },
-            "schools": []
-        },
         "BUILDING TECHNOLOGY": {
             "subjects": {
                 "compulsory": [
@@ -2535,7 +2647,7 @@
                 "Abubakar Tafawa Balewa University"
             ]
         },
-        "BUSINESS ADMINISTRATION": {
+        "BUSINESS ADMINISTRATION [Adminisration]": {
             "subjects": {
                 "compulsory": [
                     "Mathematics",
@@ -2544,7 +2656,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Any Other Social Sciences Subject"
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -2587,7 +2699,24 @@
                 "Michael Okpara University of Agriculture",
                 "Osun State University",
                 "Nnamdi Azkiwe University",
-                "Wellspring University",
+                "Wellspring University"
+            ]
+        },
+        "BUSINESS ADMINISTRATION [Social Science]": {
+            "subjects": {
+                "compulsory": [
+                    "Mathematics",
+                    "Economics",
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Ambrose Alli University",
                 "Afe Babalola University",
                 "Achievers University,Owo",
@@ -2761,7 +2890,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Any Other Social Sciences Subject"
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
@@ -3083,7 +3212,23 @@
                 "Igbinedion University, Okada"
             ]
         },
-        "CHINESE STUDIES": {
+        "CHINESE STUDIES(1)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Arts Subjects or Social Sciences"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Nnamdi Azkiwe University"
+            ]
+        },
+        "CHINESE STUDIES (2)": {
             "subjects": {
                 "compulsory": [
                     "Use of English"
@@ -3096,9 +3241,23 @@
                 "others": []
             },
             "schools": [
-                "Kaduna State University",
-                "University of Lagos",
-                "Nnamdi Azkiwe University"
+                "Kaduna State University"
+            ]
+        },
+        "CHINESE STUDIES (3)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Arts Subjects or Social Sciences or Science"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "University of Lagos"
             ]
         },
         "CHRISTIAN THEOLOGY": {
@@ -3687,7 +3846,7 @@
                 "University of Uyo"
             ]
         },
-        "COMPUTER SCIENCE": {
+        "COMPUTER SCIENCE [Science]": {
             "subjects": {
                 "compulsory": [
                     "Mathematics",
@@ -3839,6 +3998,25 @@
                 "Yobe State University"
             ]
         },
+        "COMPUTER SCIENCE[Engineering]": {
+            "subjects": {
+                "compulsory": [
+                    "Mathematics",
+                    "Physics",
+                    "Mathematics",
+                    "Use of English"
+                ],
+                "optional": {},
+                "others": []
+            },
+            "schools": [
+                "American University of Nigeria",
+                "Bells University of Technology",
+                "Crawford University",
+                "Obafemi Awolowo University",
+                "Renaissance University"
+            ]
+        },
         "COMPUTER SCIENCE AND INFORMATION TECHNOLOGY": {
             "subjects": {
                 "compulsory": [
@@ -3963,17 +4141,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Lit-in-English",
-                        "Christian Religious Studies",
-                        "Economics",
-                        "French",
-                        "Geography",
-                        "Government",
-                        "Hausa",
-                        "Yoruba",
-                        "Igbo",
-                        "Islamic studies",
-                        "Arabic"
+                        "Any Three Arts or Social Science Subjects"
                     ]
                 },
                 "others": []
@@ -4097,17 +4265,7 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Lit-in-English",
-                        "Christian Religious Studies",
-                        "Economics",
-                        "French",
-                        "Geography",
-                        "Government",
-                        "Hausa",
-                        "Yoruba",
-                        "Igbo",
-                        "Islamic studies",
-                        "Arabic"
+                        "Two Other Arts subjects or Social Science subjects"
                     ]
                 },
                 "others": []
@@ -4186,16 +4344,26 @@
                 "Salem University"
             ]
         },
-        "CRIMINOLOGY AND SECURITY STUDIES": {
+        "CRIMINOLOGY AND SECURITY STUDIES (1)": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Economics",
+                    "Mathematics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Government",
+                        "History",
+                        "Geography",
+                        "Lit-in-English",
+                        "French",
+                        "Religious Studies"
+                    ]
+                },
                 "others": []
             },
             "schools": [
-                "University of Jos",
                 "Ebonyi State University",
                 "Achievers University,Owo",
                 "Arthur Jarvis University",
@@ -4212,6 +4380,45 @@
                 "Lead City University",
                 "National Open University of Nigeria",
                 "Western Delta University"
+            ]
+        },
+        "CRIMINOLOGY AND SECURITY STUDIES(2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Three Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "University of Jos"
+            ]
+        },
+        "CRIMINOLOGY AND SECURITY STUDIES (3)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Government",
+                    "Economics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "History",
+                        "Geography",
+                        "Lit-in-English",
+                        "French",
+                        "Islamic studies",
+                        "Hausa"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Federal University,Dutse"
             ]
         },
         "CROP PRODUCTION": {
@@ -4957,7 +5164,18 @@
                 "Wesley University of Science and Technology",
                 "Ritman University",
                 "Yobe State University",
-                "MacPherson University"
+                "Abia State University",
+                "American University of Nigeria",
+                "Imo State University",
+                "MacPherson University",
+                "Plateau State University",
+                "Wellspring University",
+                "Evangel University,Akaeze",
+                "Federal University,Dutse",
+                "Federal University, Lokoja",
+                "Alex Ekwueme Federal University,Ndufu-Alike",
+                "Federal University, Wukari",
+                "Umaru Musa Yar'Adua University"
             ]
         },
         "ECONOMICS /GEOGRAPHY/PHYSICS": {
@@ -5004,7 +5222,8 @@
                 "Federal University, Gashua",
                 "Federal University, Kashere",
                 "Federal University,Oye-Ekiti",
-                "Igbinedion University, Okada"
+                "Igbinedion University, Okada",
+                "Federal University, Otuoke"
             ]
         },
         "ECONOMICS AND STATISTICS": {
@@ -7927,7 +8146,27 @@
             },
             "schools": []
         },
-        "FINANCE": {
+        "FINANCE (1)": {
+            "subjects": {
+                "compulsory": [
+                    "Mathematics",
+                    "Economics",
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Government",
+                        "Geography"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "American University of Nigeria",
+                "University of Lagos"
+            ]
+        },
+        "FINANCE (2)": {
             "subjects": {
                 "compulsory": [
                     "Mathematics",
@@ -7943,8 +8182,25 @@
             },
             "schools": [
                 "American University of Nigeria",
-                "University of Lagos",
                 "University of Ilorin",
+                "Novena University"
+            ]
+        },
+        "FINANCE (3)": {
+            "subjects": {
+                "compulsory": [
+                    "Mathematics",
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Social Sciences Subject",
+                        "Any Other Subject"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Novena University"
             ]
         },
@@ -8051,7 +8307,7 @@
                 "Nnamdi Azkiwe University"
             ]
         },
-        "FISHERIES": {
+        "FISHERIES (1)": {
             "subjects": {
                 "compulsory": [
                     "Chemistry",
@@ -8060,7 +8316,7 @@
                 "optional": {
                     "subject 1": [
                         "Biology/Agriculture",
-                        "Mathematics/Physics"
+                        "Any Other Science Subject"
                     ]
                 },
                 "others": []
@@ -8081,7 +8337,24 @@
                 "Olabisi Onabanjo University",
                 "Ondo State University of Science and Technology",
                 "University of Port Harcourt",
-                "Usmanu Danfodio University",
+                "Usmanu Danfodio University"
+            ]
+        },
+        "FISHERIES": {
+            "subjects": {
+                "compulsory": [
+                    "Chemistry",
+                    "Use of English",
+                    "Biology"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Mathematics or Physics"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "University of Lagos",
                 "Ondo State University of Science and Technology"
             ]
@@ -8105,17 +8378,16 @@
                 "Federal University of Technology, Owerri"
             ]
         },
-        "FISHERIES AND AQUACULTURE": {
+        "FISHERIES AND AQUACULTURE (1)": {
             "subjects": {
                 "compulsory": [
-                    "Biology",
                     "Chemistry",
                     "Use of English"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics",
-                        "Physics"
+                        "Mathematics/Physics",
+                        "Biology or Agriculture"
                     ]
                 },
                 "others": []
@@ -8133,8 +8405,43 @@
                 "Modibo Adama University of Technology",
                 "Salem University",
                 "Osun State University",
-                "University of Uyo",
-                "Crescent University, Abeokuta",
+                "University of Uyo"
+            ]
+        },
+        "FISHERIES AND AQUACULTURE(2)": {
+            "subjects": {
+                "compulsory": [
+                    "Biology",
+                    "Chemistry",
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Mathematics",
+                        "Physics"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Crescent University, Abeokuta"
+            ]
+        },
+        "FISHERIES AND AQUACULTURE (3)": {
+            "subjects": {
+                "compulsory": [
+                    "Chemistry",
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Biology/Agriculture",
+                        "Any Other Science Subject"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Adekunle Ajasin University",
                 "Ahmadu Bello University",
                 "Bayero University",
@@ -8342,7 +8649,34 @@
                 "Wesley University of Science and Technology"
             ]
         },
-        "FOOD SCIENCE AND TECHNOLOGY": {
+        "FOOD SCIENCE AND TECHNOLOGY (1)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Chemistry",
+                    "Mathematics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Physics/Biology"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Bells University of Technology",
+                "Federal University of Technology, Owerri",
+                "Igbinedion University, Okada",
+                "Kwara State University",
+                "Madonna University, Okija",
+                "University of Maiduguri",
+                "Obafemi Awolowo University",
+                "The Technical University",
+                "University of Nigeria",
+                "Wesley University of Science and Technology"
+            ]
+        },
+        "FOOD SCIENCE AND TECHNOLOGY (2)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -8357,7 +8691,53 @@
                 "others": []
             },
             "schools": [
-                "Bells University of Technology"
+                "Abia State University",
+                "Bayero University",
+                "Bells University of Technology",
+                "Bowen University",
+                "University of Calabar",
+                "Chukwuemeka Odumegwu Ojukwu University",
+                "Crawford University",
+                "Ebonyi State University",
+                "Federal University, Wukari",
+                "Federal University of Agriculture, Abeokuta",
+                "Federal University of Technology,Akure",
+                "Imo State University",
+                "Joseph Ayo Babalola University",
+                "Kogi State University",
+                "Kano University of Science and Technology",
+                "University of Agriculture, Makurdi",
+                "Modibo Adama University of Technology",
+                "Federal University of Technology,Minna",
+                "University of Mkar",
+                "Rivers State University",
+                "Michael Okpara University of Agriculture",
+                "University of Nigeria",
+                "Nnamdi Azkiwe University",
+                "University of Uyo"
+            ]
+        },
+        "FOOD SCIENCE AND TECHNOLOGY (3)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Chemistry"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Physics/Mathematics",
+                        "Agriculture"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "University of Calabar",
+                "Enugu State University of Science and Technology",
+                "Ibrahim Badamasi Babangida University",
+                "MountIan Top University",
+                "Ondo State University of Science and Technology",
+                "Osun State University"
             ]
         },
         "FORENSIC SCIENCE": {
@@ -8730,7 +9110,7 @@
                 "University of Calabar"
             ]
         },
-        "GEOGRAPHY": {
+        "GEOGRAPHY (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -8738,7 +9118,11 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Any Two Arts or Social Sciences Subjects"
+                        "Mathematics",
+                        "Biology",
+                        "Chemistry",
+                        "Physics",
+                        "Agriculture"
                     ]
                 },
                 "others": []
@@ -8756,7 +9140,74 @@
                 "Umaru Musa Yar'Adua University"
             ]
         },
-        "GEOGRAPHY AND METEROLOGY": {
+        "GEOGRAPHY": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Two Arts or Social Sciences Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Abia State University",
+                "University of Abuja",
+                "Bayero University",
+                "Benue State University",
+                "Ekiti State University, Ado Ekiti",
+                "Federal University, Dutsin-Ma",
+                "Federal University, Gashua",
+                "Federal Unversity, Birnin-Kebbi",
+                "Gombe State University of Science and Technology",
+                "Ignatius Ajuru University of Education",
+                "University of Ibadan",
+                "Kogi State University",
+                "Kwararafa University,Wukari",
+                "Kwara State University",
+                "University of Lagos",
+                "Ibrahim Badamasi Babangida University",
+                "University of Maiduguri",
+                "Yusuf Maitama Sule University",
+                "Nigeria Army University",
+                "Nigeria Defence Academy",
+                "Niger Delta University",
+                "Obafemi Awolowo University",
+                "Plateau State University",
+                "Sokoto State University",
+                "Taraba State University",
+                "Usmanu Danfodio University",
+                "Osun State University",
+                "University of Uyo",
+                "Yobe State University",
+                "Federal University, Kashere",
+                "Federal University, Lafia",
+                "Federal University, Lokoja",
+                "Alex Ekwueme Federal University,Ndufu-Alike"
+            ]
+        },
+        "GEOGRAPHY (3)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Two Arts Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Kano University of Science and Technology",
+                "Modibo Adama University of Technology"
+            ]
+        },
+        "GEOGRAPHY AND METEROLOGY (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -8775,7 +9226,47 @@
                 "Imo State University"
             ]
         },
-        "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT": {
+        "GEOGRAPHY AND METEROLOGY (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Mathematics",
+                        "Biology",
+                        "Chemistry",
+                        "Physics",
+                        "Agriculture"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Godfrey Okoye University"
+            ]
+        },
+        "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT (1)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Economics",
+                        "Physics",
+                        "Chemistry"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Nnamdi Azkiwe University"
+            ]
+        },
+        "GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT (2)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -8789,7 +9280,7 @@
                 "others": []
             },
             "schools": [
-                "Nnamdi Azkiwe University"
+                "Enugu State University of Science and Technology"
             ]
         },
         "GEOGRAPHY AND ENVIRONMENTAL SCIENCE": {
@@ -8827,7 +9318,26 @@
                 "Joseph Ayo Babalola University"
             ]
         },
-        "GEOGRAPHY AND PLANNING": {
+        "GEOGRAPHY AND PLANNING (1)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subjects from Arts or Social Science"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Lagos State University",
+                "Adekunle Ajasin University",
+                "Abia State University"
+            ]
+        },
+        "GEOGRAPHY AND PLANNING (2)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -8841,9 +9351,7 @@
                 "others": []
             },
             "schools": [
-                "Lagos State University",
-                "Adekunle Ajasin University",
-                "Abia State University"
+                "University of Jos"
             ]
         },
         "GEOGRAPHY AND PLANNING SCIENCE": {
@@ -8863,10 +9371,49 @@
                 "Ekiti State University, Ado Ekiti"
             ]
         },
-        "GEOGRAPHY AND REGIONAL PLANNING": {
+        "GEOGRAPHY AND REGIONAL PLANNING (1)": {
             "subjects": {
                 "compulsory": [
-                    "Use of English"
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Two Arts Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "University of Benin"
+            ]
+        },
+        "GEOGRAPHY AND REGIONAL PLANNING (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Two Arts or Social Science Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Ambrose Alli University",
+                "Ignatius Ajuru University of Education",
+                "Delta State University",
+                "Igbinedion University, Okada",
+                "University of Uyo"
+            ]
+        },
+        "GEOGRAPHY AND REGIONAL PLANNING (3)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
                 ],
                 "optional": {
                     "subject 1": [
@@ -8880,10 +9427,7 @@
                 "others": []
             },
             "schools": [
-                "University of Benin",
-                "University of Uyo",
-                "Ambrose Alli University",
-                "Ignatius Ajuru University of Education"
+                "Olabisi Onabanjo University"
             ]
         },
         "GEOLOGICAL SCIENCE": {
@@ -9394,7 +9938,7 @@
                 "Niger Delta University"
             ]
         },
-        "HISTORY AND INTERNATIONAL RELATIONS": {
+        "HISTORY AND INTERNATIONAL RELATIONS (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English"
@@ -9413,7 +9957,24 @@
                 "Kwara State University",
                 "Yusuf Maitama Sule University",
                 "Paul University",
-                "Veritas University",
+                "Veritas University"
+            ]
+        },
+        "HISTORY AND INTERNATIONAL RELATIONS (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Economics",
+                    "Literture in English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Geography/Government/History"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Al-Hikmah University"
             ]
         },
@@ -9791,7 +10352,7 @@
                 "Hezekiah University"
             ]
         },
-        "HOSPITALITY AND TOURISM MANAGEMENT": {
+        "HOSPITALITY AND TOURISM MANAGEMENT (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -9799,8 +10360,8 @@
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology or Agriculture",
-                        "Mathematics/Physics/One Social Sciences Subject"
+                        "Biology/Agriculture",
+                        "Mathematics/Physics or One Social Science Subject"
                     ]
                 },
                 "others": []
@@ -9811,6 +10372,26 @@
                 "Federal University of Agriculture, Abeokuta",
                 "Imo State University",
                 "Kwara State University",
+                "University of Port Harcourt"
+            ]
+        },
+        "HOSPITALITY AND TOURISM MANAGEMENT (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Economics",
+                    "Mathematics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Federal University,Oye-Ekiti",
+                "Imo State University",
                 "University of Port Harcourt"
             ]
         },
@@ -9838,22 +10419,39 @@
                 "Elizade University"
             ]
         },
-        "HOTEL  AND TOURISM MANAGEMENT": {
+        "HOTEL  AND TOURISM MANAGEMENT (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Chemistry"
+                    "Mathematics",
+                    "Economics"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology/Agriculture",
-                        "Mathematics/Physics"
+                        "Any Other Subject"
                     ]
                 },
                 "others": []
             },
             "schools": [
                 "National Open University of Nigeria",
+                "Western Delta University"
+            ]
+        },
+        "HOTEL  AND TOURISM MANAGEMENT (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Two Other Arts or Social Science Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Western Delta University"
             ]
         },
@@ -9948,7 +10546,7 @@
                 "Kwararafa University,Wukari"
             ]
         },
-        "HUMAN NUTRITION AND DIETICS": {
+        "HUMAN NUTRITION AND DIETICS (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -9963,7 +10561,21 @@
                 "others": []
             },
             "schools": [
-                "Michael Okpara University of Agriculture",
+                "Michael Okpara University of Agriculture"
+            ]
+        },
+        "HUMAN NUTRITION AND DIETICS (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Chemistry",
+                    "Biology",
+                    "Physics"
+                ],
+                "optional": {},
+                "others": []
+            },
+            "schools": [
                 "Ambrose Alli University",
                 "Afe Babalola University",
                 "University of Calabar",
@@ -9992,7 +10604,7 @@
                 "University of Nigeria"
             ]
         },
-        "HUMAN RESOURCES MANAGEMENT": {
+        "HUMAN RESOURCES MANAGEMENT (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -10007,7 +10619,24 @@
                 "others": []
             },
             "schools": [
-                "Elizade University",
+                "Elizade University"
+            ]
+        },
+        "HUMAN RESOURCES MANAGEMENT (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Economics",
+                    "Mathematics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Redeemer's University",
                 "Plateau State University"
             ]
@@ -10571,7 +11200,7 @@
                 "Nigeria Army University"
             ]
         },
-        "INFORMATIION AND COMMUNICATION TECHNOLOGY": {
+        "INFORMATIION AND COMMUNICATION TECHNOLOGY (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -10593,7 +11222,28 @@
                 "Federal University of Technology,Akure",
                 "Kebbi State University of Science and Technology",
                 "Kano University of Science and Technology",
-                "Usmanu Danfodio University",
+                "Usmanu Danfodio University"
+            ]
+        },
+        "INFORMATIION AND COMMUNICATION TECHNOLOGY (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Biology",
+                        "Chemistry",
+                        "Agriculture",
+                        "Economics",
+                        "Geography"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Afe Babalola University",
                 "Babcock University",
                 "Crawford University",
@@ -10621,7 +11271,7 @@
                 "Elizade University"
             ]
         },
-        "INFORMATION TECHNOLOGY": {
+        "INFORMATION TECHNOLOGY (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -10641,7 +11291,28 @@
                 "Abubakar Tafawa Balewa University",
                 "Bells University of Technology",
                 "Salem University",
-                "Modibo Adama University of Technology",
+                "Modibo Adama University of Technology"
+            ]
+        },
+        "INFORMATION TECHNOLOGY (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Biology",
+                        "Chemistry",
+                        "Agriculture",
+                        "Economics",
+                        "Geography"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Anchor University,Lagos",
                 "American University of Nigeria",
                 "Bayero University",
@@ -10709,20 +11380,16 @@
                 "Bayero University"
             ]
         },
-        "INSURANCE": {
+        "INSURANCE (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
                     "Mathematics",
-                    "Physics"
+                    "Economics"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Chemistry",
-                        "Agriculture",
-                        "Economics",
-                        "Geography"
+                        "One Other Subject"
                     ]
                 },
                 "others": []
@@ -10733,7 +11400,24 @@
                 "University of Jos",
                 "University of Lagos",
                 "Niger Delta University",
-                "Redeemer's University",
+                "Redeemer's University"
+            ]
+        },
+        "INSURANCE (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Mathematics",
+                    "Economics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "One  Social Science Subject"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "University of Benin",
                 "Gregory University, Uturu ",
                 "Joseph Ayo Babalola University",
@@ -10746,15 +11430,11 @@
                 "compulsory": [
                     "Use of English",
                     "Mathematics",
-                    "Physics"
+                    "Economics"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Biology",
-                        "Chemistry",
-                        "Agriculture",
-                        "Economics",
-                        "Geography"
+                        "One Other Subject"
                     ]
                 },
                 "others": []
@@ -10822,7 +11502,7 @@
                 "Novena University"
             ]
         },
-        "INTERNATIONAL STUDIES AND DIPLOMACY": {
+        "INTERNATIONAL STUDIES AND DIPLOMACY (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -10839,8 +11519,48 @@
                 "others": []
             },
             "schools": [
-                "University of Benin",
+                "University of Benin"
+            ]
+        },
+        "INTERNATIONAL STUDIES AND DIPLOMACY (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Mathematics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Economics",
+                        "Government",
+                        "History",
+                        "Geography",
+                        "Lit-in-English",
+                        "French"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Kaduna State University"
+            ]
+        },
+        "INTERNATIONAL STUDIES AND DIPLOMACY (3)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "History/Government",
+                        "Any Other Other Two Arts or Social Sciences Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "University of Benin",
+                "Benson Idahosa University",
+                "University of Jos"
             ]
         },
         "INTERNATIONAL COMPARATIVE POLITICS": {
@@ -10863,7 +11583,7 @@
                 "American University of Nigeria"
             ]
         },
-        "INTERNATIONAL RELATIONS ": {
+        "INTERNATIONAL RELATIONS (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -10882,7 +11602,24 @@
                 "others": []
             },
             "schools": [
-                "Obafemi Awolowo University",
+                "Obafemi Awolowo University"
+            ]
+        },
+        "INTERNATIONAL RELATIONS (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Economics",
+                    "Literture in English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Geography/Government/History"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Achievers University,Owo",
                 "Admiralty University of Nigeria",
                 "Anchor University,Lagos",
@@ -10973,13 +11710,17 @@
                 "Yusuf Maitama Sule University"
             ]
         },
-        "ISLAMIC STUDIES": {
+        "ISLAMIC STUDIES (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
                     "Islamic studies"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Two Arts Subjects"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -11015,8 +11756,24 @@
                 "Umaru Musa Yar'Adua University",
                 "Osun State University",
                 "Yobe State University",
-                "Crescent University, Abeokuta",
                 "Yusuf Maitama Sule University"
+            ]
+        },
+        "ISLAMIC STUDIES (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Islamic studies"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Crescent University, Abeokuta"
             ]
         },
         "ISLAMIC/SHARIA LAW": {
@@ -11233,7 +11990,7 @@
                 "Yobe State University"
             ]
         },
-        "LIBRARY AND INFORMATION SCIENCE": {
+        "LIBRARY AND INFORMATION SCIENCE (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English"
@@ -11257,7 +12014,49 @@
                 "Alex Ekwueme Federal University,Ndufu-Alike",
                 "Kola Daisi University",
                 "University of Port Harcourt",
-                "Kano University of Science and Technology",
+                "Kano University of Science and Technology"
+            ]
+        },
+        "LIBRARY AND INFORMATION SCIENCE (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Biology",
+                        "Chemistry",
+                        "Agriculture",
+                        "Economics",
+                        "Geography"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Veritas University",
+                "University of Ilorin",
+                "Abubakar Tafawa Balewa University",
+                "Kogi State University",
+                "Kwara State University",
+                "Rivers State University"
+            ]
+        },
+        "LIBRARY AND INFORMATION SCIENCE (3)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "any three subject "
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Ambrose Alli University",
                 "Abia State University",
                 "Ahmadu Bello University",
@@ -11285,13 +12084,7 @@
                 "Tai Solarin University of Education",
                 "Umaru Musa Yar'Adua University",
                 "Osun State University",
-                "University of Nigeria",
-                "Veritas University",
-                "University of Ilorin",
-                "Abubakar Tafawa Balewa University",
-                "Kogi State University",
-                "Kwara State University",
-                "Rivers State University"
+                "University of Nigeria"
             ]
         },
         "LIBRARY AND INFORMATION STUDIES": {
@@ -11460,7 +12253,7 @@
                 "Adekunle Ajasin University"
             ]
         },
-        "LINGUISTICS AND AFRICAN LANGUAGES": {
+        "LINGUISTICS AND AFRICAN LANGUAGES (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English"
@@ -11474,7 +12267,23 @@
                 "others": []
             },
             "schools": [
-                "University of Benin",
+                "University of Benin"
+            ]
+        },
+        "LINGUISTICS AND AFRICAN LANGUAGES (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Igbo"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Two Other Arts Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Obafemi Awolowo University"
             ]
         },
@@ -11850,7 +12659,7 @@
                 "Federal University of Technology,Akure"
             ]
         },
-        "MARKETING": {
+        "MARKETING (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -11900,6 +12709,53 @@
                 "Western Delta University"
             ]
         },
+        "MARKETING (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Mathematics",
+                    "Economics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Subject"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Abia State University",
+                "Caritas University",
+                "Coal City University",
+                "Chukwuemeka Odumegwu Ojukwu University",
+                "Covenant University",
+                "Cross River University of Technology",
+                "Delta State University",
+                "Ebonyi State University",
+                "Ekiti State University, Ado Ekiti",
+                "Eastern Palm University",
+                "Enugu State University of Science and Technology",
+                "Evangel University,Akaeze",
+                "University of Ilorin",
+                "Imo State University",
+                "University of Jos",
+                "Ladoke Akintola University of Technology",
+                "Legacy University, Okija",
+                "Madonna University, Okija",
+                "University of Maiduguri",
+                "MacPherson University",
+                "Niger Delta University",
+                "Obong University",
+                "Pan-Atlantic University",
+                "University of Port Harcourt",
+                "Rhema University",
+                "Rivers State University",
+                "Nnamdi Azkiwe University",
+                "University of Nigeria",
+                "University of Uyo",
+                "Veritas University"
+            ]
+        },
         "MARKETING AND ADVERTISING": {
             "subjects": {
                 "compulsory": [
@@ -11940,7 +12796,29 @@
                 "Ignatius Ajuru University of Education"
             ]
         },
-        "MASS COMMUNICATION": {
+        "MASS COMMUNICATION (1)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Literture in English",
+                    "Economics",
+                    "Government"
+                ],
+                "optional": {},
+                "others": []
+            },
+            "schools": [
+                "Adekunle Ajasin University",
+                "Caritas University",
+                "Cross River University of Technology",
+                "Enugu State University of Science and Technology",
+                "Madonna University, Okija",
+                "Nasarawa State University",
+                "Wellspring University",
+                "Western Delta University"
+            ]
+        },
+        "MASS COMMUNICATION (2)": {
             "subjects": {
                 "compulsory": [
                     "Use of English"
@@ -11953,14 +12831,6 @@
                 "others": []
             },
             "schools": [
-                "Adekunle Ajasin University",
-                "Caritas University",
-                "Cross River University of Technology",
-                "Enugu State University of Science and Technology",
-                "Madonna University, Okija",
-                "Nasarawa State University",
-                "Wellspring University",
-                "Western Delta University",
                 "Ajayi Crowther University",
                 "Akwa Ibom State University ",
                 "Al-Hikmah University",
@@ -13297,7 +14167,7 @@
                 "Obafemi Awolowo University"
             ]
         },
-        "NUTRITION AND DIETICS ": {
+        "NUTRITION AND DIETICS(1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -13317,7 +14187,21 @@
                 "Imo State University",
                 "Nasarawa State University",
                 "University of Nigeria",
-                "Wesley University of Science and Technology",
+                "Wesley University of Science and Technology"
+            ]
+        },
+        "NUTRITION AND DIETICS (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Chemistry",
+                    "Physics",
+                    "Biology"
+                ],
+                "optional": {},
+                "others": []
+            },
+            "schools": [
                 "Babcock University",
                 "University of Jos",
                 "Bowen University",
@@ -13382,7 +14266,7 @@
                 "Modibo Adama University of Technology"
             ]
         },
-        "OPTOMETRY": {
+        "OPTOMETRY (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -13394,12 +14278,26 @@
                 "others": []
             },
             "schools": [
-                "University of Benin",
                 "Abia State University",
                 "Bayero University",
                 "Federal University of Technology, Owerri",
                 "University of Ibadan",
                 "Madonna University, Okija"
+            ]
+        },
+        "OPTOMETRY": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Physics",
+                    "Chemistry/Biology",
+                    "Mathematics"
+                ],
+                "optional": {},
+                "others": []
+            },
+            "schools": [
+                "University of Benin"
             ]
         },
         "PARASITOLOGY AND ENTOMOLOGY": {
@@ -13721,11 +14619,10 @@
                 "University of Uyo"
             ]
         },
-        "PHILOSOPHY": {
+        "PHILOSOPHY (1)": {
             "subjects": {
                 "compulsory": [
-                    "Use of English",
-                    "Government"
+                    "Use of English"
                 ],
                 "optional": {
                     "subject 1": [
@@ -13735,7 +14632,7 @@
                 "others": []
             },
             "schools": [
-                "Ahmadu Bello University",
+                "Ambrose Alli University",
                 "Adekunle Ajasin University",
                 "University of Abuja",
                 "Akwa Ibom State University ",
@@ -13772,7 +14669,23 @@
                 "Osun State University",
                 "Nnamdi Azkiwe University",
                 "University of Uyo",
-                "Veritas University",
+                "Veritas University"
+            ]
+        },
+        "PHILOSOPHY (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Government"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Caleb University",
                 "Delta State University",
                 "Godfrey Okoye University",
@@ -14451,16 +15364,16 @@
                 "Western Delta University"
             ]
         },
-        "PLANT SCIENCE AND BIOTECHNOLOGY": {
+        "PLANT SCIENCE AND BIOTECHNOLOGY (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Chemistry"
+                    "Chemistry",
+                    "Biology"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Physics/Mathematics",
-                        "Biology/Agriculture"
+                        "Any Other Science Subject"
                     ]
                 },
                 "others": []
@@ -14479,7 +15392,24 @@
                 "Nasarawa State University",
                 "University of Port Harcourt",
                 "Michael Okpara University of Agriculture",
-                "Hezekiah University",
+                "Hezekiah University"
+            ]
+        },
+        "PLANT SCIENCE AND BIOTECHNOLOGY (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Chemistry"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Physics/Mathematics",
+                        "Biology/Agriculture"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Abia State University",
                 "Rivers State University"
             ]
@@ -14954,15 +15884,14 @@
                 "Cross River University of Technology"
             ]
         },
-        "PSYCHOLOGY": {
+        "PSYCHOLOGY (1)": {
             "subjects": {
                 "compulsory": [
-                    "Use of English",
-                    "Government"
+                    "Use of English"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Any Other Two Arts Subjects or Social Sciences"
+                        "Any Other Three Arts Subjects or Social Sciences"
                     ]
                 },
                 "others": []
@@ -15006,22 +15935,38 @@
                 "Renaissance University",
                 "Nnamdi Azkiwe University",
                 "University of Nigeria",
-                "University of Uyo",
+                "University of Uyo"
+            ]
+        },
+        "PSYCHOLOGY (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Government"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Covenant University",
                 "Evangel University,Akaeze",
                 "Plateau State University"
             ]
         },
-        "PUBLIC ADMINISTRATION": {
+        "PUBLIC ADMINISTRATION (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Economics"
+                    "Economics",
+                    "Mathematics"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Mathematics or Government",
-                        "Any Other Subject"
+                        "Any Other Social Science Subject"
                     ]
                 },
                 "others": []
@@ -15064,7 +16009,24 @@
                 "Usmanu Danfodio University",
                 "University of Africa",
                 "Veritas University",
-                "Yobe State University",
+                "Yobe State University"
+            ]
+        },
+        "PUBLIC ADMINISTRATION (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Economics",
+                    "Government"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other  Subject"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
                 "Ahmadu Bello University",
                 "Achievers University,Owo",
                 "Adamawa State University",
@@ -15629,7 +16591,24 @@
                 "University of Nigeria"
             ]
         },
-        "SECRETARIAL ADMINISTRATION ": {
+        "SECRETARIAL ADMINISTRATION (1) ": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Economics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Two Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Crawford University"
+            ]
+        },
+        "SECRETARIAL ADMINISTRATION (2) ": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -15643,7 +16622,6 @@
                 "others": []
             },
             "schools": [
-                "Crawford University",
                 "Olabisi Onabanjo University"
             ]
         },
@@ -15746,15 +16724,14 @@
                 "University of Nigeria"
             ]
         },
-        "SOCIOLOGY": {
+        "SOCIOLOGY (1)": {
             "subjects": {
                 "compulsory": [
-                    "Use of English",
-                    "Government/History"
+                    "Use of English"
                 ],
                 "optional": {
                     "subject 1": [
-                        "Any Other Two Arts Subjects or Social Sciences"
+                        "Any Other Three Arts Subjects or Social Sciences"
                     ]
                 },
                 "others": []
@@ -15835,16 +16812,10 @@
                 "Osun State University",
                 "Nnamdi Azkiwe University",
                 "Western Delta University",
-                "Yobe State University",
-                "Covenant University",
-                "Evangel University,Akaeze",
-                "Federal University, Kashere",
-                "Alex Ekwueme Federal University,Ndufu-Alike",
-                "Plateau State University",
-                "Salem University"
+                "Yobe State University"
             ]
         },
-        "SOCIOLOGY AND ANTHROPOLOGY": {
+        "SOCIOLOGY (2)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -15853,6 +16824,44 @@
                 "optional": {
                     "subject 1": [
                         "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Covenant University",
+                "Evangel University,Akaeze",
+                "Federal University, Kashere",
+                "Alex Ekwueme Federal University,Ndufu-Alike",
+                "Plateau State University",
+                "Salem University"
+            ]
+        },
+        "SOCIOLOGY AND ANTHROPOLOGY (1)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Government/History"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Federal University, Otuoke"
+            ]
+        },
+        "SOCIOLOGY AND ANTHROPOLOGY (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Three Arts Subjects or Social Sciences"
                     ]
                 },
                 "others": []
@@ -15869,11 +16878,34 @@
                 "Obafemi Awolowo University",
                 "University of Nigeria",
                 "University of Uyo",
-                "Yobe State University",
-                "Federal University, Otuoke"
+                "Yobe State University"
             ]
         },
         "SOFTWARE ENGINEERING": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Mathematics",
+                    "Economics"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Biology",
+                        "Chemistry",
+                        "Physics",
+                        "Geography"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Al-Hikmah University",
+                "American University of Nigeria",
+                "Babcock University",
+                "Nile University of Nigeria"
+            ]
+        },
+        "SOFTWARE ENGINEERING (2)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -15897,11 +16929,7 @@
                 "Federal University,Dutse",
                 "Nigeria Army University",
                 "Skyline University Nigeria",
-                "The Technical University",
-                "Al-Hikmah University",
-                "American University of Nigeria",
-                "Babcock University",
-                "Nile University of Nigeria"
+                "The Technical University"
             ]
         },
         "SOIL AND ENVIRONMENTAL MANAGEMENT": {
@@ -16056,7 +17084,25 @@
                 "University of Uyo"
             ]
         },
-        "SPORT SCIENCE ": {
+        "SPORT SCIENCE (1)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Biology"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Relevant Subject"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Afe Babalola University",
+                "Olabisi Onabanjo University"
+            ]
+        },
+        "SPORT SCIENCE (2)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -16072,7 +17118,6 @@
                 "others": []
             },
             "schools": [
-                "Afe Babalola University",
                 "Olabisi Onabanjo University"
             ]
         },
@@ -16095,15 +17140,19 @@
                 "Ibrahim Badamasi Babangida University"
             ]
         },
-        "STATISTICS": {
+        "STATISTICS (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Mathematics",
-                    "Physics",
-                    "Chemistry"
+                    "Mathematics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Economics",
+                        "Physics",
+                        "Chemistry"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16180,6 +17229,22 @@
                 "University of Uyo",
                 "Wesley University of Science and Technology",
                 "Yobe State University"
+            ]
+        },
+        "STATISTICS (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Mathematics",
+                    "Physics",
+                    "Chemistry"
+                ],
+                "optional": {},
+                "others": []
+            },
+            "schools": [
+                "Federal University of Technology, Owerri",
+                "Ondo State University of Science and Technology"
             ]
         },
         "STATISTICS EDUCATION": {
@@ -16325,11 +17390,25 @@
                 "others": []
             },
             "schools": [
-                "Coal City University",
                 "University of Benin",
                 "Caleb University",
                 "Federal University,Dutse",
                 "Nasarawa State University"
+            ]
+        },
+        "TAXATION (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Literture in English",
+                    "Economics",
+                    "Government"
+                ],
+                "optional": {},
+                "others": []
+            },
+            "schools": [
+                "Coal City University"
             ]
         },
         "TEACHER EDUCATION": {
@@ -16655,7 +17734,24 @@
                 "Madonna University, Okija"
             ]
         },
-        "TOURISM AND EVENT MANAGEMENT": {
+        "TOURISM AND EVENT MANAGEMENT (1)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts or Social Sciences Subjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Afe Babalola University"
+            ]
+        },
+        "TOURISM AND EVENT MANAGEMENT (2)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
@@ -16670,17 +17766,21 @@
                 "others": []
             },
             "schools": [
-                "Afe Babalola University",
                 "Redeemer's University"
             ]
         },
-        "TOURISM STUDIES": {
+        "TOURISM STUDIES (1)": {
             "subjects": {
                 "compulsory": [
                     "Use of English",
-                    "Geography"
+                    "Mathematics",
+                    "Economics"
                 ],
-                "optional": {},
+                "optional": {
+                    "subject 1": [
+                        "Any Other  Subject"
+                    ]
+                },
                 "others": []
             },
             "schools": [
@@ -16688,7 +17788,28 @@
                 "Ekiti State University, Ado Ekiti",
                 "National Open University of Nigeria",
                 "Osun State University",
-                "Admiralty University of Nigeria"
+                "Admiralty University of Nigeria",
+                "University of Calabar",
+                "National Open University of Nigeria"
+            ]
+        },
+        "TOURISM STUDIES (2)": {
+            "subjects": {
+                "compulsory": [
+                    "Use of English",
+                    "Geography"
+                ],
+                "optional": {
+                    "subject 1": [
+                        "Any Other Two Arts Subjects or Social Sciences Subhjects"
+                    ]
+                },
+                "others": []
+            },
+            "schools": [
+                "Admiralty University of Nigeria",
+                "University of Calabar",
+                "National Open University of Nigeria"
             ]
         },
         "TRANSPORTATION AND PLANNING": {

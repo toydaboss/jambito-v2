@@ -27,7 +27,7 @@
             <div class="banner-text"><h4>Welcome to Jambito <br/>
                 Made just for you<br/></h4>
             </div>
-            <button type="submit"><h4>Join Us</h4></button>
+            <button type="submit" id="join_btn"><h4>Join Us</h4></button>
         </div>    
         <section class="main">
             <!-- switch tab --> 
@@ -59,7 +59,6 @@
                         <option value=5 >Commerce</option>
                         <option value=6 >Economics</option>
                         <option value=11 >French</option>
-                        <option value= 1 >Use of English</option>
                         <option value=10 >Geography</option>
                         <option value=9>Government</option>
                         <option value=13 >Hausa</option>
@@ -74,8 +73,6 @@
                         <option value=8 >Accounting</option>
                         <option value=24 >Fine Art</option>
                         <option value=23 >Yoruba</option>
-                        <option value=25 >Book keeping</option>
-                        <option value=26>Business Methods</option>
                         </select>
                      <h4>Subject 3:</h4>
                      <select name="jambCombo"class="option" id="option_3" onchange="getSelectedSubject(3)">
@@ -89,7 +86,6 @@
                         <option value=5 >Commerce</option>
                         <option value=6 >Economics</option>
                         <option value=11 >French</option>
-                        <option value=1 >Use of English</option>
                         <option value=10 >Geography</option>
                         <option value=9 >Government</option>
                         <option value=13>Hausa</option>
@@ -104,8 +100,6 @@
                         <option value=8>Accounting</option>
                         <option value=24 >Fine Art</option>
                         <option value=23 >Yoruba</option>
-                        <option value=25 >Book keeping</option>
-                        <option value=26>Business Methods</option>
                      </select>
                      <div class="gap"></div>
                      <h4>Subject 4:</h4>
@@ -120,7 +114,6 @@
                         <option value=5 >Commerce</option>
                         <option value=6 >Economics</option>
                         <option value=11 >French</option>
-                        <option value=1 >Use of English</option>
                         <option value=10 >Geography</option>
                         <option value=9 >Government</option>
                         <option value=13 >Hausa</option>
@@ -135,8 +128,6 @@
                         <option value=8 >Accounting</option>
                         <option value=24 >Fine Art</option>
                         <option value=23 >Yoruba</option>
-                        <option value=25 >Book keeping</option>
-                        <option value=26>Business Methods</option>
                      </select>
                     </label>
                     </div>
@@ -145,7 +136,7 @@
                 <form class="course">
                  <h2>Check jamb combination for your course</h2>
                  <label for="Select Your Subject">
-                    <p>select your course</p> 
+                    <p>Select Your Course</p> 
                      <select name="courseSelect" id="courseSelect">
                          <!-- <option value="Course" ></option> -->
                      </select>
@@ -180,7 +171,7 @@
             <div class="info-text">
                 <h2>Got Questions?</h2>
                 <p>There is a community of erudite scholars ready to answer your questions.</p>
-                <button><a href="#" id="askBtn"><h4>Ask now</h4></a></button>
+                <button><a href="mailto:info@jambito.com" id="askBtn"><h4>Ask now</h4></a></button>
             </div>
         </div>
         <div class="feedback">
@@ -206,7 +197,7 @@
                 <form class="text-box">
                     <label for="message"><h4>Leave a message</h4></label>
                     <textarea name="feedback-text" id="" cols="30" rows="10"></textarea>
-                    <button type="submit"><h4>Submit</h4></button>
+                    <button type="submit"><a href="mailto:info@jambito.com" id="submitBtn"><h4>Submit</h4></a></button>
                 </form>
             </div>
         </div> 

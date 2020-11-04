@@ -37,7 +37,7 @@ course.addEventListener("click", e =>{
 let dropdown = document.getElementById('courseSelect');
 dropdown.length = 0;
 let defaultOption = document.createElement('option');
-defaultOption.text = "Select your course";
+defaultOption.text = "SELECT YOUR COURSE";
 dropdown.add(defaultOption);
 dropdown.selectedIndex = 0; 
 
