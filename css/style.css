@@ -614,11 +614,12 @@ nav ul li a {
   font-size: 2em;
   border-radius: 15px;
   outline: none;
+  z-index:102;
 }
 
 @media screen and (max-width: 550px) {
   .overlay {
-    height: 90%;
+    height: 90vh;
   }
   .popup {
     width: 85%;
@@ -626,7 +627,7 @@ nav ul li a {
     overflow-y:scroll;
     scroll-behavior: smooth;
     font-size: 0.8em;
-    top: 1500px;
+    top: 1400px;
   }
   .popup h3 {
     margin-bottom: .7em;
