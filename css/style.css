@@ -618,7 +618,8 @@ nav ul li a {
 
 @media screen and (max-width: 550px) {
   .overlay {
-    height: 1500px;
+    height: 80%;
+    overflow-x:scroll;
   }
   .popup {
     width: 85%;
