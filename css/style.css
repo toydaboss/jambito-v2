@@ -619,12 +619,13 @@ nav ul li a {
 
 @media screen and (max-width: 550px) {
   .overlay {
-    height: 160%;
+    height: 160vh;
   }
   .popup {
     width: 85%;
     height: 100%;
     overflow-y:scroll;
+    overflow-x: hidden;
     scroll-behavior: smooth;
     font-size: 0.8em;
     top: 1000px;
