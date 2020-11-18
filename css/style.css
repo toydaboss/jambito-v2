@@ -627,7 +627,7 @@ nav ul li a {
     overflow-y:scroll;
     scroll-behavior: smooth;
     font-size: 0.8em;
-    top: 1200px;
+    top: 1000px;
   }
   .popup h3 {
     margin-bottom: .7em;
